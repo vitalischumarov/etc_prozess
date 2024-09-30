@@ -2,10 +2,20 @@ import pandas as pd
 
 df = pd.read_csv('./Staging_Area/staging_areaDB.csv')
 
+
+#Delete id column
+df = df.drop(columns=['ID'])
+
+
+#Change column name
+df = df.rename(columns={"Gehalt" : 'Gehalt / Jahr'})
+
+
+#change column Gehalt im Jahr
+df['Gehalt / Jahr'] = df['Gehalt / Jahr'].round(2)
+
+
 #transform the date
+df['Datum'] = pd.to_datetime(df['Datum'])
+print('done')
 
-date_series = df['Datum']
-date_series = pd.to_datetime(date_series, dayfirst= True, errors='coerce')
-print(date_series.iloc[399:405])
-
-datum_series_formatiert = datum_series.dt.strftime('%d/%m/%Y')
