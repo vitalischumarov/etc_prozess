@@ -16,6 +16,9 @@ df['Gehalt / Jahr'] = df['Gehalt / Jahr'].round(2)
 
 
 #transform the date
-df['Datum'] = pd.to_datetime(df['Datum'])
-print('done')
+df['Datum'] = pd.to_datetime(df['Datum'], format='mixed')
+df['Datum'] = df['Datum'].dt.strftime('%d-%y-%Y')
+
+
+
 
