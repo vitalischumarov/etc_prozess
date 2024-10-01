@@ -7,6 +7,6 @@ df3 = pd.read_csv('./Source/data3.csv', index_col = 0)
 
 combinedDataFrame = pd.concat([df1,df2,df3], ignore_index = False)
 
-with open('./Staging_Area/staging_areaDB.csv','x') as file:
+with open('./Staging_Area/staging_areaDB.csv','w') as file:
     combinedDataFrame.to_csv('./Staging_Area/staging_areaDB.csv')
     print('successfully extracted to staging area')
