@@ -4,7 +4,7 @@ df = pd.read_csv('./Staging_Area/staging_areaDB.csv')
 
 
 #Delete id column
-df = df.drop(columns=['ID'])
+print(df.columns)
 
 
 #Change column name

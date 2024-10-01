@@ -1,601 +1,601 @@
-Unnamed: 0,ID,Name,Alter,Stadt,Beruf,Gehalt,Datum
-0,1,Edmund Dehmel MBA.,30,Lemgo,Designer,41528.0,2021-05-13
-1,2,Drago Köster-auch Schlauchin,28,Schleiz,Fachinformatiker,41836.0,2023-06-15
-2,3,Albin Atzler,36,Säckingen,Mathematiker,73576.0,2020-02-17
-3,4,Micha Caspar-Kade,56,Flöha,Programmierer,78307.0,2021-05-10
-4,5,Antonino Holsten-Bärer,49,Stendal,Techniker,58290.0,2022-03-14
-5,6,Hans Dieter Hendriks MBA.,25,Wesel,Programmierer,56067.0,2023-06-23
-6,7,Ing. Eva-Maria Seidel,39,Crailsheim,Bäcker,63426.0,2024-03-26
-7,8,Gottlieb Ullmann,22,Grafenau,Winzer,46110.0,2023-05-10
-8,9,Zoran Süßebier,59,Potsdam,Forstwirt,68590.0,2020-01-20
-9,10,Falk Fechner,62,Scheinfeld,Winzer,65276.0,2024-09-28
-10,11,Dipl.-Ing. Roberto Dussen van B.Eng.,60,Tecklenburg,Mathematiker,73488.0,2022-08-10
-11,12,Dipl.-Ing. Radmila Hölzenbecher,39,Warendorf,Mathematiker,79574.0,2023-09-02
-12,13,Blanka Carsten,29,Weißenfels,Informatiker,59216.0,2021-05-15
-13,14,Krista Kramer,42,Kusel,Elektroniker,32316.0,2021-05-21
-14,15,Andrea Stroh,33,Lübben,Techniker,43895.0,2022-01-16
-15,16,Reingard Martin-Dobes,18,Königs Wusterhausen,Bäcker,74240.0,2024-08-16
-16,17,Reginald Hein,23,Säckingen,Altenpfleger,31532.0,2023-12-19
-17,18,Dipl.-Ing. Karlfried Baum,60,Pößneck,Forstwirt,44485.0,2023-05-23
-18,19,Christopher Bolzmann-Wagner,47,Pößneck,Polizist,64461.0,2020-12-04
-19,20,Lidwina Schenk,19,Höxter,Asphaltbauer,66082.0,2022-04-08
-20,21,Alex Heser-Schinke,55,Bad Kissingen,Bäcker,40542.0,2023-09-02
-21,22,Ing. Kathi Schweitzer,63,Moers,Mechaniker,45769.0,2020-06-29
-22,23,Annerose Bender,65,Neustadt am Rübenberge,Designer,41624.0,2020-05-03
-23,24,Rose Mälzer,34,Main-Höchst,Binnenschiffer,50903.0,2023-05-16
-24,25,Miguel Weinhage-Schulz,50,Bischofswerda,Binnenschiffer,38432.0,2023-12-05
-25,26,Timo Killer,51,Sankt Goar,Schornsteinfeger,37712.0,2021-02-21
-26,27,Frau Dajana Hornich MBA.,45,Roding,Augenoptiker,33164.0,2024-02-08
-27,28,Cecilia Hermighausen B.A.,44,Luckenwalde,Drogist,66562.0,2020-08-14
-28,29,Dipl.-Ing. Fernando Sontag MBA.,56,Wetzlar,Mathematiker,54440.0,2020-10-08
-29,30,Carola Schüler,22,Stollberg,Chemikant,62174.0,2021-05-28
-30,31,Gerwin Biggen,29,Burglengenfeld,Programmierer,66624.0,2021-02-14
-31,32,Darko Schenk,48,Mallersdorf,Designer,53565.0,2022-10-08
-32,33,Hertha Schmidtke,54,Soltau,Friseur,40436.0,2022-07-26
-33,34,Univ.Prof. Hugo Heydrich,23,Ingolstadt,Designer,45613.0,2021-12-28
-34,35,Ekrem Weiß,36,Artern,Informatiker,31879.0,2020-12-21
-35,36,Gert Ruppersberger,42,Grimma,Elektroniker,63747.0,2021-01-18
-36,37,Emilie Hahn B.A.,50,Apolda,Ausbaufacharbeiter,73457.0,2023-06-09
-37,38,Dr. Marie-Therese Fischer MBA.,18,Wiedenbrück,Chirurgiemechaniker,32872.0,2021-01-04
-38,39,Peter-Michael Karz,65,Fürstenwalde,Programmierer,74680.0,2020-09-16
-39,40,Lidwina Eimer,35,Aachen,Krankenschwester,54761.0,2021-03-29
-40,41,Brian Röhrdanz,33,Uelzen,Medizininformatiker,67693.0,2021-09-09
-41,42,Ben Losekann-Stey,48,Waldmünchen,Designer,38162.0,2021-02-20
-42,43,Ing. Ida Trommler,31,Passau,Winzer,59692.0,2023-07-19
-43,44,Ing. Anne Oestrovsky B.A.,40,Garmisch-Partenkirchen,Bankkaufmann,76013.0,2022-02-12
-44,45,Ing. Knut Wesack B.Sc.,60,Bayreuth,Chirurgiemechaniker,66501.0,2020-06-01
-45,46,Susanna Dietz B.Sc.,63,Mayen,Elektroniker,57476.0,2022-05-17
-46,47,Annemarie Geisel,41,Kleve,Altenpfleger,54801.0,2022-12-04
-47,48,Hans-Michael Weitzel,29,Rothenburg ob der Tauber,Bäcker,57702.0,2020-02-03
-48,49,Hans-Herbert Wiek,62,Schwäbisch Gmünd,Florist,77284.0,2023-01-27
-49,50,Catharina Mitschke,41,Altötting,Koreanistiker,60599.0,2023-02-18
-50,51,Mohamed Schottin,30,Bremen,Schornsteinfeger,73315.0,2023-08-04
-51,52,Luise Rohleder MBA.,39,Beilngries,Erzieher,49510.0,2023-03-26
-52,53,Daria Trub,55,Ansbach,Florist,37692.0,2020-08-25
-53,54,Gerda Heß-Weinhage,59,Lübeck,Winzer,46910.0,2022-04-06
-54,55,Karl-Heinz Heidrich,54,Nauen,Techniker,54896.0,2024-07-16
-55,56,Utz Aumann,36,Kehl,Elektroniker,45098.0,2020-03-17
-56,57,Theodora Briemer,33,Großenhain,Augenoptiker,72510.0,2022-11-03
-57,58,Ortrud Fischer,60,Stollberg,Medizininformatiker,66822.0,2021-01-15
-58,59,Univ.Prof. Fabienne Hiller,59,Merseburg,Chirurgiemechaniker,52946.0,2024-06-07
-59,60,Laszlo Trapp,51,Deggendorf,Krankenschwester,62545.0,2020-09-05
-60,61,Elke Hiller,46,Finsterwalde,Programmierer,36759.0,2022-03-19
-61,62,Dr. Hans-Werner Grein Groth B.A.,60,Plauen,Arzt,40041.0,2023-04-26
-62,63,Oscar Tlustek,26,Olpe,Artist,69295.0,2023-03-08
-63,64,Aribert Hethur,40,Eisenberg,Elektroniker,74518.0,2022-09-06
-64,65,Janusz Süßebier,44,Zeulenroda,Techniker,34554.0,2023-08-17
-65,66,Cathleen Gunpf,19,Wunsiedel,Chirurgiemechaniker,71758.0,2022-12-04
-66,67,Herr Senol Becker,59,Wurzen,Arzt,46955.0,2020-09-26
-67,68,Egbert Nette B.Sc.,31,Lobenstein,Florist,62384.0,2022-06-01
-68,69,Jann Buchholz B.Eng.,56,Oberviechtach,Winzer,60072.0,2024-04-19
-69,70,Gerdi Mude,39,Flöha,Bäcker,60232.0,2023-12-05
-70,71,Gerold Nette-Hörle,64,Mallersdorf,Winzer,47771.0,2022-02-26
-71,72,Dipl.-Ing. Sönke Geisler MBA.,34,Pritzwalk,Techniker,57250.0,2021-05-02
-72,73,Alicia Birnbaum B.Sc.,42,Gütersloh,Mechaniker,41995.0,2022-03-28
-73,74,Univ.Prof. Solveig Fiebig,48,Crailsheim,Schornsteinfeger,35813.0,2022-05-24
-74,75,Götz Bachmann B.Eng.,35,Großenhain,Mathematiker,33879.0,2024-07-04
-75,76,Dipl.-Ing. Frithjof Baum,20,Starnberg,Techniker,75246.0,2021-05-02
-76,77,Stephan Anders,56,Ochsenfurt,Arzt,33751.0,2020-09-24
-77,78,Dr. Angelica Segebahn,49,Monschau,Koreanistiker,56534.0,2022-10-22
-78,79,Univ.Prof. Marta Tröst,32,Göttingen,Polizist,79812.0,2020-05-05
-79,80,Eberhard Gutknecht,51,Oschatz,Artist,53291.0,2021-04-23
-80,81,Dipl.-Ing. Emanuel Kostolzin B.Eng.,62,Kötzting,Augenoptiker,57014.0,2020-02-13
-81,82,Patrik Jacobi Jäckel-Preiß,27,Mühlhausen,Friseur,78174.0,2020-03-03
-82,83,Heiderose Stey MBA.,48,Brand,Ausbaufacharbeiter,55291.0,2021-07-12
-83,84,Univ.Prof. Cilly Linke,45,Garmisch-Partenkirchen,Artist,49137.0,2020-01-30
-84,85,Ingmar Fechner MBA.,47,Olpe,Techniker,40947.0,2022-06-01
-85,86,Thies Hesse,42,Jülich,Elektroniker,58080.0,2022-04-03
-86,87,Hinrich Bruder,59,Eisenberg,Pilot,78133.0,2023-02-28
-87,88,Sükrü Kruschwitz-Baum,57,Eberswalde,Fleischer,64256.0,2020-05-18
-88,89,Donald Trubin B.Eng.,22,Angermünde,Krankenschwester,55286.0,2024-05-26
-89,90,Prof. Artur Rogge MBA.,56,Genthin,Mechaniker,65056.0,2022-08-26
-90,91,Dr. Peggy Killer B.A.,57,Helmstedt,Bäcker,33090.0,2020-06-25
-91,92,Karsten Förster B.Eng.,32,Spremberg,Chirurgiemechaniker,47032.0,2022-06-25
-92,93,Gundi Löchel,23,Husum,Chemikant,53144.0,2021-12-05
-93,94,Claudius Matthäi,20,Burglengenfeld,Informatiker,54354.0,2024-07-24
-94,95,Prof. Louis Ritter,37,Hohenmölsen,Krankenschwester,44016.0,2022-05-26
-95,96,Ayse Mosemann,52,Senftenberg,Florist,63628.0,2022-04-27
-96,97,Patrik Dowerg B.Eng.,28,Lörrach,Asphaltbauer,36618.0,2021-09-09
-97,98,Thoralf Ebert B.A.,32,Calw,Florist,75183.0,2023-01-02
-98,99,Silvana Kallert MBA.,40,Aue,Drogist,50596.0,2024-04-03
-99,100,Rahel Hamann B.A.,38,Brandenburg,Florist,78740.0,2023-05-12
-100,101,Univ.Prof. Gerd Koch B.Sc.,60,Hannover,Pilot,55261.0,2024-06-01
-101,102,Vladimir Beier,41,Weißenfels,Mathematiker,79363.0,2023-01-23
-102,103,Hans Georg Gerlach,47,Celle,Mechaniker,33962.0,2021-02-10
-103,104,Prof. Brian Misicher,44,Ravensburg,Arzt,50123.0,2021-05-29
-104,105,Ing. Jacek Schäfer B.Eng.,22,Schwandorf,Informatiker,52954.0,2020-09-16
-105,106,Helmtrud Koch II,54,Augsburg,Schornsteinfeger,51309.0,2023-09-03
-106,107,Uschi Jacob-Scheel,56,Lichtenfels,Pilot,71208.0,2023-04-11
-107,108,Patric Kambs,50,Schwabmünchen,Chirurgiemechaniker,77750.0,2023-12-27
-108,109,Ekkehard Schleich B.Sc.,43,Parsberg,Mathematiker,33672.0,2021-07-13
-109,110,Dipl.-Ing. Siegrun Mohaupt B.Sc.,43,Zossen,Pfleger,43990.0,2020-04-30
-110,111,Marko Heinz,35,Wertingen,Ausbaufacharbeiter,52688.0,2022-07-25
-111,112,Clara Ernst,60,Bautzen,Ausbaufacharbeiter,43436.0,2022-09-04
-112,113,Saskia Henk,26,Karlsruhe,Ausbaufacharbeiter,35268.0,2020-06-23
-113,114,Alma Dörr,36,Güstrow,Techniker,68986.0,2024-07-14
-114,115,Kathi Beckmann-Möchlichen,31,Bremervörde,Koreanistiker,63046.0,2024-02-02
-115,116,Andreas Roskoth,63,Koblenz,Forstwirt,55186.0,2020-07-05
-116,117,Inga Koch,20,Böblingen,Fachinformatiker,73821.0,2023-05-04
-117,118,Dorle Nerger,65,Kaiserslautern,Chirurgiemechaniker,67827.0,2021-01-25
-118,119,Romy Schleich-Heintze,49,Augsburg,Asphaltbauer,53904.0,2024-04-28
-119,120,Wieslaw Pruschke,55,Neustadt am Rübenberge,Designer,44585.0,2020-08-24
-120,121,Univ.Prof. Gustav Flantz B.Sc.,61,Cuxhaven,Bankkaufmann,38395.0,2024-01-15
-121,122,Maurizio Hamann,18,Hettstedt,Bankkaufmann,33487.0,2024-01-05
-122,123,Vinko Bauer-Segebahn,30,Parsberg,Forstwirt,33227.0,2021-12-05
-123,124,Prof. Kay-Uwe Rörricht,34,Rothenburg ob der Tauber,Artist,46955.0,2020-04-01
-124,125,Egbert Rosenow,50,Illertissen,Asphaltbauer,57966.0,2022-08-14
-125,126,Frieder Koch II B.A.,34,Altentreptow,Arzt,34006.0,2021-07-13
-126,127,Jacek Atzler B.Sc.,44,Illertissen,Pfleger,79444.0,2021-12-01
-127,128,Heribert Schlosser,47,Groß-Gerau,Pilot,77448.0,2024-05-17
-128,129,Prof. Marten Lindau,54,Grafenau,Designer,35318.0,2020-07-16
-129,130,Jens-Uwe Anders,34,Wesel,Krankenschwester,73429.0,2020-08-30
-130,131,Frau Florence Thanel B.Eng.,36,Angermünde,Krankenschwester,64347.0,2022-01-06
-131,132,Hansjürgen Peukert-Segebahn,25,Plauen,Augenoptiker,72121.0,2024-03-30
-132,133,Ingrid Dippel,49,Illertissen,Medizininformatiker,66014.0,2024-07-07
-133,134,Gerta Tintzmann B.A.,21,Wismar,Winzer,52135.0,2023-04-16
-134,135,Irmhild Bähr-Ring,18,Plauen,Beamter,39011.0,2023-09-04
-135,136,Justus Schenk,27,Meiningen,Chemikant,64684.0,2021-06-05
-136,137,Dimitri Wirth-Nerger,39,Sondershausen,Forstwirt,72138.0,2021-08-10
-137,138,Erhard Hermann,39,Stadtsteinach,Techniker,45817.0,2021-11-08
-138,139,Heinz-Gerd Etzold,46,Lüdinghausen,Florist,37016.0,2023-08-22
-139,140,Dr. Karl-Werner Schönland MBA.,30,Schwäbisch Gmünd,Arzt,51658.0,2023-11-29
-140,141,Joachim Graf,50,Borna,Designer,32555.0,2020-04-19
-141,142,Univ.Prof. Wilfriede Hein B.Sc.,24,Wittmund,Florist,38101.0,2020-04-09
-142,143,Lea Kallert,34,Uffenheim,Bankkaufmann,34287.0,2022-01-05
-143,144,Saban Schmidt,61,Freital,Programmierer,57424.0,2020-10-07
-144,145,Bärbel Atzler,51,Schwäbisch Gmünd,Techniker,50537.0,2020-03-06
-145,146,Jörn Juncken,39,Zschopau,Pfleger,54410.0,2023-10-17
-146,147,Gerwin Rohleder B.Eng.,19,Jessen,Bankkaufmann,79073.0,2024-07-01
-147,148,Ing. Friedhilde Hethur MBA.,30,Schmölln,Erzieher,36165.0,2022-10-02
-148,149,Aenne Schinke,58,Erbisdorf,Pilot,77289.0,2024-05-11
-149,150,Katherina Stadelmann,36,Dessau,Beamter,58179.0,2020-06-15
-150,151,Prof. Marian Hölzenbecher,52,Ahaus,Fleischer,79786.0,2023-12-24
-151,152,Cynthia Lange,54,Soltau,Mathematiker,75119.0,2022-10-21
-152,153,Dr. Eleni Kabus B.Eng.,31,Gerolzhofen,Asphaltbauer,70551.0,2023-09-17
-153,154,Blanka Krause,47,Tuttlingen,Chemikant,74399.0,2024-02-29
-154,155,Ing. Heinz-Josef Niemeier B.Sc.,41,Eisenhüttenstadt,Mathematiker,67562.0,2022-02-20
-155,156,Irina Eckbauer-Hofmann,30,Jena,Asphaltbauer,74490.0,2023-11-09
-156,157,Erica Stolze,39,Arnstadt,Krankenschwester,34345.0,2022-04-29
-157,158,Asta Winkler B.Sc.,36,Northeim,Medizininformatiker,33632.0,2022-04-24
-158,159,Lydia Hettner B.Sc.,29,Wolfenbüttel,Friseur,55799.0,2021-03-13
-159,160,Dr. Undine Lindau,37,Eichstätt,Koreanistiker,37558.0,2023-12-19
-160,161,Ilona Sontag-Kusch,40,Magdeburg,Binnenschiffer,50277.0,2021-04-09
-161,162,Wieslaw Bärer,56,Mayen,Chemikant,64100.0,2022-09-10
-162,163,Klaus-Werner Haering,23,Miltenberg,Elektroniker,45702.0,2022-02-08
-163,164,Trudi Zahn,45,Schwerin,Fleischer,46639.0,2021-05-30
-164,165,Hans-Jochen Hornig,29,Peine,Augenoptiker,73285.0,2024-01-16
-165,166,Antoinette Wilms,22,Witzenhausen,Asphaltbauer,35121.0,2022-10-21
-166,167,Karlheinz Roht MBA.,51,Ingolstadt,Elektroniker,35505.0,2021-10-22
-167,168,Paul-Heinz Salz-Riehl,45,Werdau,Pfleger,66940.0,2024-08-10
-168,169,Univ.Prof. Martin Hölzenbecher B.A.,49,Bamberg,Florist,57508.0,2022-11-24
-169,170,Magret Trupp,20,Torgau,Informatiker,60625.0,2020-06-06
-170,171,Rüdiger Eberth,45,Rochlitz,Bäcker,79787.0,2021-07-28
-171,172,Trudel Graf MBA.,51,Malchin,Florist,30811.0,2023-11-17
-172,173,Ing. Karl Heidrich,47,Regensburg,Pilot,66627.0,2022-01-20
-173,174,Prof. Eugenia Liebelt B.A.,25,Rosenheim,Pfleger,75675.0,2020-12-10
-174,175,Helma Wende,26,Cottbus,Pfleger,65453.0,2023-01-21
-175,176,Hubert Spieß,43,Pirmasens,Bankkaufmann,69719.0,2024-08-06
-176,177,Rosa-Maria Roht-Trapp,34,Artern,Artist,45310.0,2020-06-09
-177,178,Denny Gunpf,32,Senftenberg,Bäcker,54420.0,2021-10-24
-178,179,Josefa Hamann,50,Stade,Drogist,42683.0,2024-04-26
-179,180,Mikhail Hering,20,Kaiserslautern,Polizist,73936.0,2020-04-10
-180,181,Lothar Dehmel B.A.,36,Forchheim,Pilot,36500.0,2024-05-16
-181,182,Necati Kallert-Ring,19,Germersheim,Ausbaufacharbeiter,62446.0,2024-01-29
-182,183,Mandy Bien,27,Paderborn,Schornsteinfeger,69873.0,2024-05-20
-183,184,Marvin Gerlach,28,Dieburg,Fachinformatiker,52675.0,2023-04-30
-184,185,Paulina Kusch,34,Gifhorn,Informatiker,76154.0,2023-04-10
-185,186,Sybilla Geisel,25,Greifswald,Pilot,71862.0,2023-06-13
-186,187,Frau Norma Bruder B.A.,19,Nabburg,Programmierer,44798.0,2022-02-08
-187,188,Alexei auch Schlauchin,53,Delitzsch,Elektroniker,64129.0,2020-12-22
-188,189,Inge Rose,28,Klötze,Florist,68118.0,2022-07-02
-189,190,Dipl.-Ing. Eugen Gorlitz,32,Steinfurt,Designer,47929.0,2021-09-24
-190,191,Dr. Alessandro Jockel,39,Havelberg,Fleischer,71363.0,2020-08-08
-191,192,Karlheinz Eberhardt,32,Lüneburg,Winzer,38615.0,2024-06-21
-192,193,Theo Reising,18,Weimar,Drogist,47784.0,2023-07-18
-193,194,Herr Raik Barth,52,Kelheim,Erzieher,73634.0,2020-10-04
-194,195,Frau Dorina Säuberlich,41,Tuttlingen,Artist,51647.0,2020-06-20
-195,196,Imke Kroker,58,Forst,Florist,44349.0,2020-12-24
-196,197,Mohammad Wesack,19,Steinfurt,Altenpfleger,53697.0,2022-03-07
-197,198,Anett Kade-Stahr,40,Wolfenbüttel,Asphaltbauer,65822.0,2023-07-18
-198,199,Herr Leo Dörr,24,Parsberg,Bankkaufmann,54871.0,2020-11-09
-199,200,Christiana Drewes,23,Aurich,Forstwirt,44505.0,2023-02-10
-0,1,Justus Budig,54,Deggendorf,Medizininformatiker,64020.0,2023-05-23
-1,2,Prof. Christel Becker,44,Kemnath,Augenoptiker,62804.0,2020-04-21
-2,3,Gundi Rörricht,18,Waren,Mechaniker,,2023-10-14
-3,4,Tanja Wende B.Eng.,50,Fürstenwalde,Binnenschiffer,,2023-08-19
-4,5,Cäcilia Dörschner,40,Sebnitz,Pilot,,2022-07-06
-5,6,Eva-Marie Barth-Schüler,56,Bogen,Artist,54053.0,2020-04-13
-6,7,Matthias Briemer,27,Viechtach,Elektroniker,34699.0,2020-06-19
-7,8,Wolfgang Sontag,63,Apolda,Friseur,73969.0,2022-02-27
-8,9,Frau Martine Albers,23,Neuruppin,Polizist,73877.0,2023-08-21
-9,10,Klaas Schulz-Beier,34,Perleberg,Medizininformatiker,,2024-09-25
-10,11,Dittmar Ring,23,Sankt Goar,Informatiker,52492.0,2024-07-18
-11,12,Marianne Lange,48,Bernburg,Designer,46343.0,2020-01-20
-12,13,Dr. Marie-Therese Hölzenbecher,41,,Chemikant,41495.0,2022-01-24
-13,14,Dipl.-Ing. Ulla Hartung B.Sc.,46,Brand,Asphaltbauer,42156.0,2023-06-28
-14,15,Sofie Hauffer,23,Mallersdorf,Koreanistiker,,2024-06-01
-15,16,Svenja Schuster-Holsten,43,Pegnitz,Schornsteinfeger,56049.0,2023-08-26
-16,17,Rosmarie Jacob,39,Kassel,Altenpfleger,57452.0,2022-08-25
-17,18,Hubertine Säuberlich,31,Northeim,Ausbaufacharbeiter,32597.0,2022-09-27
-18,19,Anto Lindner-Hornig,40,,Fachinformatiker,,2023-01-22
-19,20,Alexandros Junken,28,Stuttgart,Techniker,,2022-07-22
-20,21,Zlatko Stadelmann,38,Eutin,Fachinformatiker,,2020-08-05
-21,22,Gino Henck,44,Hamburg,Elektroniker,,2020-12-17
-22,23,Karl-Jürgen Stumpf,57,München,Bankkaufmann,65943.0,2023-07-01
-23,24,Margita Stumpf-Junken,48,Demmin,Pfleger,,2023-07-10
-24,25,Isidor Schacht-Zimmer,41,Kitzingen,Polizist,,2022-09-13
-25,26,Ariane Ditschlerin,51,Hannover,Polizist,57188.0,2023-03-30
-26,27,Traude Jüttner,43,Oschatz,Augenoptiker,38501.0,2023-01-09
-27,28,Nada Radisch,28,Zerbst,Augenoptiker,67668.0,2020-11-09
-28,29,Edeltraud Schönland-Kensy,52,,Asphaltbauer,31500.0,2022-04-23
-29,30,Constanze Jopich-Fechner,60,,Friseur,,2020-06-17
-30,31,Dajana Butte,35,Hildburghausen,Bankkaufmann,42062.0,2023-05-22
-31,32,Guenther Hesse B.Eng.,30,Torgau,Koreanistiker,,2023-02-28
-32,33,Slawomir Lindner,60,Bersenbrück,Binnenschiffer,,2021-11-03
-33,34,Marlis Mälzer,34,Konstanz,Informatiker,40359.0,2021-08-22
-34,35,Annamaria van der Dussen,32,Marienberg,Programmierer,52916.0,2021-02-14
-35,36,Oswin Wende,42,Büsingen am Hochrhein,Florist,,2023-10-19
-36,37,Clemens Mangold-Kensy,44,Havelberg,Schornsteinfeger,,2021-01-09
-37,38,Erhardt Koch,44,Querfurt,Polizist,45237.0,2022-11-30
-38,39,Hans Jörg Rohleder,34,Mellrichstadt,Elektroniker,36768.0,2022-06-15
-39,40,Edgar Schuchhardt,31,Beilngries,Schornsteinfeger,,2020-12-02
-40,41,Nicolas Häring B.Sc.,58,,Fleischer,73025.0,2023-05-20
-41,42,Dipl.-Ing. Gerhard Fiebig,51,Helmstedt,Winzer,,2023-08-17
-42,43,Mareen Jopich,48,Hohenmölsen,Bäcker,,2022-05-28
-43,44,Yvette Speer,53,Wunsiedel,Drogist,65054.0,2024-08-14
-44,45,Valeska Dussen van,64,Lübz,Arzt,70583.0,2023-08-07
-45,46,Dorothea Flantz,18,,Koreanistiker,74529.0,2022-09-18
-46,47,Waltraud Mende B.Eng.,32,Neuss,Florist,37470.0,2023-08-09
-47,48,Eileen Henk,23,Mainburg,Pilot,39607.0,2022-02-18
-48,49,Dusan Häring-Wilmsen,38,Augsburg,Chirurgiemechaniker,70331.0,2020-07-13
-49,50,Nuran Stadelmann,56,Guben,Pilot,72855.0,2020-01-02
-50,51,Stephen Säuberlich-Aumann,53,Malchin,Artist,36381.0,2024-08-16
-51,52,Luciano Roskoth,62,Stollberg,Koreanistiker,68977.0,2021-08-25
-52,53,Dipl.-Ing. Herwig Holt MBA.,39,Werdau,Krankenschwester,,2024-04-21
-53,54,Jost Tröst-Köhler,18,Güstrow,Elektroniker,53495.0,2024-05-09
-54,55,Concetta Döhn B.A.,46,Celle,Bankkaufmann,,2020-04-28
-55,56,Anny Wernecke MBA.,50,,Polizist,,2023-08-09
-56,57,Zeki Barth,40,Soest,Fachinformatiker,,2024-04-16
-57,58,Tamara Stolze,34,Stade,Bankkaufmann,,2022-08-13
-58,59,Mirko Wohlgemut,22,Hannoversch Münden,Forstwirt,56675.0,2021-07-16
-59,60,Erdmute Beckmann-Kramer,46,Quedlinburg,Winzer,39650.0,2020-06-07
-60,61,Gitte Geisler,41,Bautzen,Mechaniker,,2020-08-14
-61,62,Christopher Holt,52,Wolfach,Fachinformatiker,,2024-01-04
-62,63,Stephen Thies B.Eng.,52,,Chirurgiemechaniker,40019.0,2023-04-10
-63,64,Maria-Luise Bauer,56,Holzminden,Pilot,67432.0,2020-05-11
-64,65,Dipl.-Ing. Ellinor Vollbrecht B.A.,58,Hünfeld,Designer,70015.0,2021-08-10
-65,66,Irmela Harloff,34,Schlüchtern,Artist,72538.0,2020-08-05
-66,67,Heinz-Otto Christoph,52,Geithain,Fachinformatiker,54986.0,2020-07-30
-67,68,Claus-Dieter Rosenow,27,,Forstwirt,54527.0,2022-09-01
-68,69,Leonie Haering,18,Hansestadttralsund,Mathematiker,69440.0,2021-07-01
-69,70,Karl-Otto Jäkel B.A.,42,Jülich,Artist,73830.0,2022-05-27
-70,71,Gertraut Kruschwitz MBA.,39,Worbis,Drogist,43891.0,2022-02-25
-71,72,Ekaterina Mies,62,,Krankenschwester,34031.0,2020-09-19
-72,73,Herr Ilja Hornig MBA.,38,,Techniker,68523.0,2022-07-08
-73,74,Siegbert Weinhold,33,,Arzt,30390.0,2024-01-05
-74,75,Frieder Wesack MBA.,38,,Bäcker,,2021-05-23
-75,76,Rolf Wagner,24,,Techniker,,2024-04-30
-76,77,Prof. Corina Bender MBA.,41,Plauen,Bankkaufmann,,2021-08-23
-77,78,Piotr Weimer B.A.,36,Zeulenroda,Koreanistiker,76522.0,2024-02-15
-78,79,Ottmar Staude,30,Schrobenhausen,Chemikant,54122.0,2021-10-02
-79,80,Nikolaos Faust B.A.,64,Auerbach,Pfleger,44125.0,2020-12-30
-80,81,Dipl.-Ing. Abdullah Hamann MBA.,56,,Chirurgiemechaniker,,2023-02-07
-81,82,Mustafa Schleich,45,Weißwasser,Arzt,75956.0,2020-09-22
-82,83,Jessica Meyer,44,Wanzleben,Informatiker,53752.0,2023-03-29
-83,84,Klara Sölzer,39,Wertingen,Arzt,74120.0,2020-08-12
-84,85,Danuta Noack-Lübs,63,Berlin,Techniker,30653.0,2023-08-12
-85,86,Türkan Ruppert,30,Uffenheim,Designer,57229.0,2021-01-26
-86,87,Katja Häring,36,,Florist,43828.0,2023-07-24
-87,88,Anka Radisch,59,Soest,Fleischer,39396.0,2023-04-07
-88,89,Univ.Prof. Stephan Römer B.Sc.,61,,Programmierer,43180.0,2024-01-01
-89,90,Dipl.-Ing. Korinna Holzapfel,24,,Fleischer,45155.0,2023-03-08
-90,91,Margit Kreusel,42,,Ausbaufacharbeiter,57008.0,2024-07-14
-91,92,Manja Weiß,49,Karlsruhe,Schornsteinfeger,,2022-08-25
-92,93,Christl Vogt,37,Crailsheim,Beamter,47823.0,2022-07-06
-93,94,Jenny Gute,36,Kelheim,Techniker,78538.0,2021-07-04
-94,95,Margit Johann,54,Kaiserslautern,Chemikant,58411.0,2022-05-05
-95,96,Jacob Jockel,36,Euskirchen,Mechaniker,,2023-01-27
-96,97,Liesa Rörricht,65,Rathenow,Krankenschwester,,2023-03-01
-97,98,Hans Peter Aumann,32,Viechtach,Programmierer,,2020-03-06
-98,99,Pauline Dippel,59,,Mathematiker,43719.0,2021-06-12
-99,100,Karl-Friedrich Trupp,24,Lobenstein,Artist,35649.0,2023-07-22
-100,101,Rahel Stiffel,25,Moers,Chemikant,,2020-06-11
-101,102,Hans-Henning Spieß,35,Mellrichstadt,Forstwirt,66096.0,2022-05-31
-102,103,Imelda Eberhardt,45,Sankt Goarshausen,Medizininformatiker,,2023-10-22
-103,104,Petros Gertz,31,Bad Mergentheim,Altenpfleger,,2020-05-30
-104,105,Wladimir Rädel B.Eng.,55,Cloppenburg,Designer,,2020-04-11
-105,106,Serge Gieß,30,Helmstedt,Chirurgiemechaniker,,2020-11-01
-106,107,Univ.Prof. Hilma Wiek,38,Lörrach,Fachinformatiker,,2022-09-29
-107,108,Wencke Mosemann B.Eng.,54,Zerbst,Designer,73605.0,2022-04-03
-108,109,Jan Gotthard-Jopich,64,Grevesmühlen,Polizist,,2024-07-29
-109,110,Marie-Luise Hövel-Herrmann,33,Rathenow,Bäcker,60082.0,2021-10-01
-110,111,Ryszard Förster,60,Lüneburg,Chemikant,76454.0,2021-04-04
-111,112,Marga Meyer,50,Seelow,Binnenschiffer,64622.0,2024-02-17
-112,113,Greta Hethur,44,Konstanz,Krankenschwester,65971.0,2023-06-28
-113,114,Benita Schuchhardt,37,Wismar,Krankenschwester,33739.0,2022-01-28
-114,115,Jost Pruschke,24,Coburg,Polizist,,2021-08-03
-115,116,Fridolin Wagenknecht,42,Parchim,Erzieher,77067.0,2023-08-18
-116,117,Marija Hübel,26,,Chemikant,61170.0,2024-08-17
-117,118,Catharina Mosemann,41,Düren,Chemikant,47465.0,2021-07-30
-118,119,Anika Eimer-Kruschwitz,18,Haldensleben,Arzt,,2022-01-01
-119,120,Ella Kusch-Hörle,29,Parchim,Winzer,59316.0,2021-12-01
-120,121,Dr. Toralf Dowerg B.Sc.,63,Sternberg,Medizininformatiker,43663.0,2024-02-09
-121,122,Univ.Prof. Alicja Stoll,50,,Chirurgiemechaniker,60148.0,2024-01-23
-122,123,Wera Butte,39,Rastatt,Programmierer,69692.0,2024-04-22
-123,124,Anne-Kathrin Trupp-auch Schlauchin,48,Diepholz,Chirurgiemechaniker,69416.0,2024-08-17
-124,125,Klothilde Rogner B.Sc.,35,Waren,Chirurgiemechaniker,69833.0,2024-06-21
-125,126,Jerzy Wohlgemut,30,,Krankenschwester,,2024-05-06
-126,127,Herr Francis Steckel,49,,Pilot,49767.0,2023-04-03
-127,128,Ehrentraud Flantz B.Eng.,37,Hannover,Forstwirt,,2022-12-28
-128,129,Margret Birnbaum B.Eng.,33,Stadtroda,Programmierer,,2023-10-12
-129,130,Fabienne Sontag,64,Weißwasser,Schornsteinfeger,37950.0,2020-09-20
-130,131,Raymund Jacob,56,Grevesmühlen,Forstwirt,,2022-10-09
-131,132,Ing. Karl-August Henschel,34,,Drogist,74304.0,2023-08-23
-132,133,Lucie Christoph B.Sc.,19,Regensburg,Pfleger,44618.0,2022-08-04
-133,134,Bodo Seifert,46,Germersheim,Programmierer,53814.0,2024-02-04
-134,135,Ing. Traude Säuberlich MBA.,43,Freital,Fachinformatiker,,2022-05-17
-135,136,Dragica Wilmsen MBA.,22,Cuxhaven,Erzieher,60349.0,2023-11-27
-136,137,Josefine Blümel,21,,Fachinformatiker,,2022-02-23
-137,138,Sophie Ruppert,40,Hamburg,Krankenschwester,31096.0,2021-07-14
-138,139,Univ.Prof. Hiltrud Haering,38,,Bankkaufmann,,2020-11-04
-139,140,Univ.Prof. Susana Stadelmann,19,Seelow,Programmierer,37724.0,2023-11-01
-140,141,Hagen Bähr,50,Schwandorf,Koreanistiker,52381.0,2022-09-04
-141,142,Mirco Ladeck B.Sc.,52,,Friseur,,2022-10-11
-142,143,Siegrid Jacobi Jäckel-Hornig,56,Dessau,Asphaltbauer,41017.0,2023-08-19
-143,144,Esther Metz-Mentzel,57,Zossen,Chirurgiemechaniker,57391.0,2021-05-12
-144,145,Walburga Barth B.A.,35,Melsungen,Fleischer,31624.0,2023-10-04
-145,146,Margrit Schuchhardt B.Eng.,45,Haldensleben,Winzer,74434.0,2021-10-05
-146,147,Prof. Simone Bähr B.Sc.,58,Wittenberg,Schornsteinfeger,,2021-08-25
-147,148,Erica Wagenknecht,19,Torgau,Schornsteinfeger,53088.0,2023-04-22
-148,149,Toralf Kobelt,42,Werdau,Arzt,64193.0,2023-05-08
-149,150,Andree Seifert,49,Hersbruck,Polizist,41244.0,2023-03-21
-150,151,Dietmar Kobelt-Gute,30,Stade,Erzieher,37285.0,2024-08-27
-151,152,Ljiljana Häring B.A.,60,Grafenau,Fachinformatiker,74670.0,2021-11-04
-152,153,Hans Jürgen Klotz,47,Oranienburg,Forstwirt,,2023-02-24
-153,154,Liesbeth Gröttner,52,,Pfleger,,2020-05-22
-154,155,Sabine Butte-Ring,36,Viersen,Bäcker,,2024-08-11
-155,156,Heinz-Josef Hörle,18,,Programmierer,79621.0,2020-05-25
-156,157,Annerose Junitz,48,,Pfleger,69429.0,2024-04-04
-157,158,Heino Kobelt B.Eng.,28,Tecklenburg,Winzer,46902.0,2022-01-15
-158,159,Türkan Zirme MBA.,64,Kemnath,Beamter,71029.0,2020-03-09
-159,160,Frau Christa Mülichen B.Eng.,47,,Fachinformatiker,73460.0,2023-08-08
-160,161,Telse Jähn,65,,Drogist,30788.0,2024-03-29
-161,162,Antonio Sontag,42,Ludwigsburg,Mathematiker,79840.0,2023-07-23
-162,163,Ing. Linus Radisch,55,,Schornsteinfeger,,2023-06-16
-163,164,Herrmann Austermühle,27,Wernigerode,Beamter,42899.0,2022-01-24
-164,165,Frau Viola Bohlander,42,Tirschenreuth,Artist,,2024-06-25
-165,166,Roland Weiß B.A.,28,,Mechaniker,,2021-10-24
-166,167,Brigitta Stey-Mälzer,51,Geithain,Artist,43880.0,2023-07-10
-167,168,Dipl.-Ing. Heidemarie Reichmann,24,,Mathematiker,,2020-05-13
-168,169,Dipl.-Ing. Andrej Kohl MBA.,54,Steinfurt,Informatiker,39925.0,2023-01-14
-169,170,Simona Buchholz,40,Heinsberg,Augenoptiker,65472.0,2023-05-24
-170,171,Achim Bien,42,Grevesmühlen,Designer,52233.0,2023-07-05
-171,172,Prof. Annelise Jähn,21,Rehau,Beamter,31914.0,2020-01-20
-172,173,Gundi Ladeck,29,Augsburg,Koreanistiker,76809.0,2023-11-27
-173,174,Samuel Bruder,22,Wanzleben,Florist,,2023-07-03
-174,175,Heiderose Heser,57,Vilsbiburg,Chemikant,,2023-01-20
-175,176,Dr. Gabriella Hande,57,,Ausbaufacharbeiter,50044.0,2022-02-14
-176,177,Alf Schäfer,44,Angermünde,Drogist,,2024-04-05
-177,178,Prof. Anna Löffler,59,,Koreanistiker,40986.0,2024-06-01
-178,179,Otfried Kostolzin B.Eng.,34,Rathenow,Designer,44444.0,2020-07-20
-179,180,Leander Faust B.Eng.,45,Schmölln,Artist,45443.0,2021-08-20
-180,181,Timm Löchel B.Eng.,30,Recklinghausen,Beamter,57431.0,2020-02-24
-181,182,Phillip Putz,28,,Techniker,64350.0,2023-07-09
-182,183,Bogdan Häring,58,Lichtenfels,Bankkaufmann,58213.0,2021-11-01
-183,184,Rouven Henk B.Sc.,21,Norden,Krankenschwester,30223.0,2023-04-26
-184,185,Sepp Karge,38,Kassel,Beamter,41299.0,2024-05-21
-185,186,Czeslaw Keudel,64,,Mechaniker,44343.0,2020-08-25
-186,187,Hannes Hövel-Karge,58,Marienberg,Elektroniker,,2024-04-03
-187,188,Heinz-Wilhelm Holt-Butte,43,Haldensleben,Pfleger,,2020-01-19
-188,189,Marga Klotz,49,,Augenoptiker,,2023-04-22
-189,190,Nicolas Henck,27,Ilmenau,Designer,37074.0,2023-04-25
-190,191,Franz-Josef Herrmann,64,Eutin,Binnenschiffer,47252.0,2021-04-06
-191,192,Ria Henschel,36,,Artist,63586.0,2022-10-29
-192,193,Thea Schweitzer,23,Osterburg,Mathematiker,55773.0,2023-10-21
-193,194,Hans-Theo Gude-Scholtz,46,Geithain,Medizininformatiker,,2024-09-15
-194,195,Dipl.-Ing. Jakob Barth,32,Osterburg,Arzt,,2021-01-27
-195,196,Marc Eberhardt,19,Mühlhausen,Arzt,48472.0,2021-03-08
-196,197,Ingrid Kade,36,,Bankkaufmann,30140.0,2020-09-15
-197,198,Niklas Butte,39,Schwarzenberg,Ausbaufacharbeiter,32366.0,2021-02-25
-198,199,Arzu Wilmsen,62,Mettmann,Mathematiker,58136.0,2023-03-05
-199,200,Gabi Weiß B.A.,45,Kleve,Techniker,58442.0,2020-06-13
-0,1,James Wilms,54,Erding,Bankkaufmann,30.677,29/07/2023
-1,2,Benno Austermühle-Reising,53,Neuss,Erzieher,44.267,11/04/2020
-2,3,Ing. Bodo Stroh,52,Erfurt,Beamter,30.333,24/11/2021
-3,4,Rebecca Misicher,51,Norden,Florist,31.447,21/07/2022
-4,5,Prof. German Vollbrecht,53,Badibling,Beamter,53.117,13/08/2022
-5,6,Dunja Junken MBA.,61,Koblenz,Chemiiruin,41.978,18/12/2023
-6,7,Gotthilf Huhn MBA.,36,Spremberg,Florist,63.421,29/09/2022
-7,8,Magda Heydrich B.A.,60,Neubrandenburg,Arztiruin,78.865,16/03/2022
-8,9,Cengiz Kitzmann B.Eng.,27,Grimma,Augenoptiker,36.686,05/07/2021
-9,10,Rafael Freudenberger MBA.,26,Pirmasens,Florist,35.906,09/07/2023
-10,11,Alida Adolph,49,Fallingbostel,Friseur,48.66,11/08/2024
-11,12,Frau Ivana Eckbauer,28,Kaiserslautern,Techniker,61.908,24/04/2022
-12,13,Hedi Schacht MBA.,34,Mühlhausen,Techniruin,68.425,18/08/2022
-13,14,Gertraude Schinke-Schwital,22,Weimar,Mechaniker,32.273,27/02/2024
-14,15,Augustin Eberth,34,Quedlinburg,Friseur,61.6,24/08/2023
-15,16,Frau Anneli Rogner B.Sc.,33,Borna,Ausbaufacharbeiter,34.761,08/02/2024
-16,17,Vinzenz Hoffmann-Wulff,44,Oranienburg,Binnenschiffer,33.765,18/09/2024
-17,18,Univ.Prof. Claudio Jungfer,64,Parsberg,Altenpfleger,63.301,30/08/2023
-18,19,Juliane Speer,30,Garmisch-Partenkirchen,Designer,77.882,25/07/2024
-19,20,Emil Gute,37,Badibling,Fleischer,67.513,09/03/2022
-20,21,Univ.Prof. Gerwin Langern,25,Bremervörde,Artist,43.789,13/01/2021
-21,22,Britta Scholz,33,Gunzenhausen,Schornsteinfeger,47.359,05/09/2023
-22,23,Wanda Binner,18,Dinkelsbühl,Pfleger,63.389,01/07/2023
-23,24,Marie-Theres Carsten,60,Hünfeld,Fachinformatiker,56.597,06/02/2024
-24,25,Ing. Chantal Gnatz MBA.,49,Beilngries,Binnenschiffer,51.352,28/04/2024
-25,26,Prof. Sigfried Henk B.Sc.,56,Amberg,Binnenschiffer,46.322,21/01/2024
-26,27,Diedrich Berger,24,Cottbus,Informatiker,61.416,25/02/2022
-27,28,Kunibert Heß,56,Burglengenfeld,Beamter,42.957,08/01/2023
-28,29,Luisa Schinke,55,Kassel,Forstwirt,30.597,09/02/2023
-29,30,Dajana Flantz,63,Bamberg,Schornsteinfeger,72.604,25/03/2024
-30,31,Dipl.-Ing. Gerwin Beer B.Sc.,60,Bogen,Medizininformatiker,51.568,03/11/2023
-31,32,Dr. Christin Lübs B.A.,29,Mellrichstadt,Mechaniker,70.578,02/01/2021
-32,33,Hans-Gerd Fritsch,30,Hettstedt,Augenoptiker,55.833,29/05/2024
-33,34,Friedhilde Schottin,20,Pritzwalk,Drogiiruin,60.156,31/01/2022
-34,35,Miriam Girschner,23,Gotha,Inforiruin,48.903,29/03/2024
-35,36,Prof. Rene Boucsein,36,Cloppenburg,Fachinformatiker,56.232,13/01/2021
-36,37,Annemarie Gute-Briemer,18,Schwäbisch Gmünd,Medizininformatiker,47.343,15/04/2020
-37,38,Bianca Köhler-Kraushaar,64,Bremen,Florist,50.711,16/08/2022
-38,39,Dipl.-Ing. Ljiljana Adolph,30,Sondershausen,Erzieiruin,35.682,10/05/2020
-39,40,Antonie Stolze,22,Strasburg,Schornsteinfeger,66.858,08/11/2021
-40,41,Dipl.-Ing. Norma Seifert B.Sc.,22,Lörrach,Florist,37.955,21/10/2023
-41,42,Muharrem Fröhlich-Kobelt,28,Sangerhausen,Pilot,77.841,01/05/2020
-42,43,Anastasia Gumprich,50,Bad Freienwalde,Arztiruin,45.654,30/05/2020
-43,44,Alma Weinhold,18,Freudenstadt,Erzieiruin,47.016,27/06/2021
-44,45,Prof. Rolf Wohlgemut B.Sc.,45,Waren,Alteniruin,57.224,29/11/2021
-45,46,Dr. Rita Döring B.Eng.,49,Sigmaringen,Beamter,45.429,03/08/2021
-46,47,Elena Schuchhardt,54,Griesbach Rottal,Augenoptiker,53.828,20/11/2023
-47,48,Univ.Prof. Patricia Aumann,32,Havelberg,Bankkaufmann,78.809,13/05/2024
-48,49,Rouven Schönland-Wirth,58,Fulda,Arzt,36.291,12/03/2023
-49,50,Ferenc Jessel MBA.,63,Saarlouis,Drogist,40.624,14/11/2022
-50,51,Albin Roht,53,Nauen,Artist,57.531,14/11/2022
-51,52,Herr Hansgeorg Seip B.Eng.,41,Rudolstadt,Chemiiruin,66.969,06/09/2021
-52,53,Wolf-Dieter Mans,28,Gießen,Forstwirt,65.535,16/12/2020
-53,54,Gerdi Herrmann,45,Vohenstrauß,Friseur,45.001,31/10/2022
-54,55,Elfie Beyer,25,Illertissen,Mathematiker,76.93,08/12/2021
-55,56,Eleonora Christoph-Siering,58,Ochsenfurt,Erzieher,52.639,12/01/2023
-56,57,Nikolaos Heinrich B.Sc.,22,Badibling,Bankkaufmann,62.959,05/01/2021
-57,58,Klaus-Günter Lindau-Täsche,44,Osterode am Harz,Winzer,39.639,28/09/2023
-58,59,Elvira Gorlitz,44,Schwandorf,Techniker,73.92,26/01/2020
-59,60,Slawomir Dörr,54,Feuchtwangen,Bäcker,41.821,19/06/2020
-60,61,Prof. Ditmar Hein B.A.,42,Saarbrücken,Elektroniker,59.871,12/10/2022
-61,62,Ernst-August Heinz,45,Geldern,Informatiker,65.225,17/07/2023
-62,63,Hans-Martin Kreusel B.A.,60,Cottbus,Mediziruin,41.412,26/12/2023
-63,64,Leni Sager,47,Fürstenwalde,Chemikant,58.24,02/01/2020
-64,65,Herr Guenter Dowerg,53,Bad Liebenwerda,Winzer,49.27,27/09/2020
-65,66,Ruth Schäfer-Schmidt,44,Gräfenhainichen,Schornsteinfeger,34.653,31/05/2022
-66,67,Antonina Schottin-Kabus,28,Haldensleben,Bäcker,51.222,02/09/2020
-67,68,Tilo Gunpf,45,Steinfurt,Koreanistiker,61.41,09/01/2022
-68,69,Sophia Mitschke,48,Dachau,Pilot,36.664,09/06/2024
-69,70,Frau Nadin Thanel B.Eng.,30,Sigmaringen,Bankkaufmann,79.684,13/07/2020
-70,71,Hasso Löffler-Kade,51,Grimma,Augenoptiker,39.065,09/06/2023
-71,72,Univ.Prof. Mirko Kallert MBA.,32,Plauen,Koreairuin,63.396,09/02/2023
-72,73,Filippo Höfig-Bender,57,Einbeck,Artist,78.174,02/05/2024
-73,74,Lilo Schmidtke B.A.,20,Eutin,Designer,65.149,06/01/2022
-74,75,Gretel Hiller,57,Altentreptow,Bäcker,47.879,01/07/2024
-75,76,Mirko Barkholz,46,Bad Mergentheim,Chemikant,78.958,17/04/2020
-76,77,Prof. Alfredo Misicher B.Eng.,22,Stade,Fachinformatiker,30.303,18/03/2022
-77,78,Herr Willibert Weitzel,56,Günzburg,Mechaniker,34.34,29/01/2021
-78,79,Francoise Staude,41,Hansestadttralsund,Schornsteinfeger,36.974,22/08/2023
-79,80,Ivonne Bohlander,60,Hainichen,Bäcker,32.336,26/05/2022
-80,81,Reni Sontag B.A.,27,Burglengenfeld,Bäcker,42.46,19/12/2021
-81,82,Raik Gröttner,44,Brandenburg,Beamter,57.368,09/04/2023
-82,83,Jens-Uwe Finke,27,Einbeck,Techniker,60.701,07/04/2022
-83,84,Univ.Prof. Marie Klotz B.A.,42,Regen,Florist,63.109,14/04/2021
-84,85,Diedrich Mülichen,38,Worbis,Elektroniker,70.301,07/12/2023
-85,86,Lidia Döring-Hornich,25,Wetzlar,Drogist,37.969,26/07/2021
-86,87,Univ.Prof. Tobias Hethur,50,Göttingen,Artist,69.866,27/09/2021
-87,88,Ilhan Häring,46,Grafenau,Polizist,60.562,16/05/2020
-88,89,Ing. Theo Hamann B.Sc.,63,Kassel,Fleischer,33.499,05/11/2023
-89,90,Rigo Seidel,32,Auerbach,Elektiruin,51.305,18/01/2024
-90,91,Frau Maike Junck,42,Worbis,Winzer,39.224,29/08/2022
-91,92,Adelinde Losekann,30,Ilmenau,Artist,34.659,22/07/2022
-92,93,Uwe Henschel,44,Zossen,Altenpfleger,40.764,08/03/2022
-93,94,Asta Pergande-Heser,24,Naila,Drogist,50.334,16/04/2021
-94,95,Abdullah Bohnbach B.Eng.,46,Eilenburg,Designer,34.367,24/11/2021
-95,96,Frau Anita Kohl B.Eng.,49,Zerbst,Erzieher,46.543,21/03/2023
-96,97,Theda Köhler,22,Soltau,Ausbaufacharbeiter,42.493,30/03/2022
-97,98,Raissa Lindner-Tschentscher,28,Lippstadt,Artist,40.709,14/05/2021
-98,99,Herr Giorgio Gerlach,49,Halberstadt,Altenpfleger,33.82,09/07/2020
-99,100,Luzia Flantz,23,Kronach,Koreanistiker,59.634,25/05/2023
-100,101,Stephen Beyer-van der Dussen,54,Ludwigsburg,Altenpfleger,46.015,14/11/2021
-101,102,Ewa Eimer,31,Magdeburg,Programmierer,44.571,24/01/2020
-102,103,Heinz Dieter Ackermann,42,Lüdinghausen,Pfleger,42.825,10/07/2020
-103,104,Albina Wirth-Stey,30,Gotha,Mathematiker,41.247,20/09/2020
-104,105,Karl-Heinrich Klemt,48,Haldensleben,Schornsteinfeger,58.155,18/07/2021
-105,106,Heidrun Junitz,36,Hohenmölsen,Asphaltbauer,44.467,13/02/2020
-106,107,Wulf Winkler B.Sc.,31,Kyritz,Beamter,33.745,15/09/2024
-107,108,Igor Scholz,21,Brandenburg,Florist,32.87,01/08/2023
-108,109,Angelika Schmiedecke B.Sc.,43,Nürtingen,Fachinformatiker,60.434,11/01/2024
-109,110,Herr Diether Carsten B.A.,22,Lübeck,Bankkaufmann,78.385,05/11/2022
-110,111,Irmtrud Oestrovsky,44,Dachau,Pfleger,73.406,01/10/2022
-111,112,Herr Rico Haase,52,Lübz,Beamter,62.453,26/11/2022
-112,113,Cläre Werner-Jockel,23,Lüdenscheid,Krankenschwester,38.614,27/07/2021
-113,114,Univ.Prof. Ben Sorgatz,26,Bützow,Binnenschiffer,52.844,02/03/2023
-114,115,Karl-Friedrich Stroh,63,Eisleben,Desigiruin,51.656,20/12/2023
-115,116,Annemie Hiller,64,Rochlitz,Koreanistiker,48.175,11/07/2020
-116,117,Athanasios Oestrovsky,47,Borna,Pfleger,38.383,30/12/2021
-117,118,Gunnar Schleich,65,Osterode am Harz,Forstwirt,56.845,01/05/2021
-118,119,Karl-Friedrich Margraf,22,Dresden,Schornsteinfeger,49.808,06/07/2020
-119,120,Jeanette Schenk,38,Gütersloh,Asphaltbauer,48.478,18/11/2022
-120,121,Manfred Pohl-Säuberlich,47,Werdau,Beamtiruin,46.226,30/04/2021
-121,122,Ahmad Patberg,64,Wittenberg,Chemikant,71.555,29/06/2022
-122,123,Margrit Losekann,45,Worbis,Ausbaufacharbeiter,59.927,16/05/2024
-123,124,Dr. Rahel Süßebier,29,Erfurt,Designer,78.929,01/09/2024
-124,125,Stefano Wagner-Siering,40,Erbisdorf,Fachinformatiker,78.222,14/03/2023
-125,126,Timo Losekann,62,Reutlingen,Ausbairuin,79.274,06/08/2020
-126,127,Hans-Theo Mühle,58,Strausberg,Ausbaufacharbeiter,35.698,17/02/2021
-127,128,Irmela Schenk,31,Burglengenfeld,Fleischer,58.634,04/08/2023
-128,129,Univ.Prof. Sara Hofmann,51,Arnstadt,Mechaniker,58.131,10/04/2024
-129,130,Kreszenz Bolzmann-Eigenwillig,36,Eggenfelden,Chirurgiemechaniker,46.457,13/11/2021
-130,131,Prof. Antonie Margraf B.A.,44,Bad Langensalza,Drogist,39.644,27/12/2023
-131,132,Clara Schlosser,62,Lüneburg,Mechaniker,46.735,09/12/2021
-132,133,Liliana Thies,43,Paderborn,Pilot,71.236,02/06/2022
-133,134,Franz-Josef Nette,56,Neubrandenburg,Designer,34.241,15/08/2020
-134,135,Dr. Silva Hettner B.Eng.,57,Senftenberg,Fleischer,38.049,16/03/2020
-135,136,Lotte Jungfer,19,Sondershausen,Informatiker,72.498,06/01/2020
-136,137,Slobodan Holzapfel,38,Melsungen,Designer,47.781,05/03/2020
-137,138,Cäcilia Köhler,24,Feuchtwangen,Inforiruin,52.749,02/04/2023
-138,139,Irmtraut Schmiedecke B.A.,22,Griesbach Rottal,Ausbairuin,49.57,02/04/2022
-139,140,Reinald Ullmann,36,Wismar,Bäcker,56.053,21/02/2023
-140,141,Herr Hans-Michael Knappe MBA.,61,Schleiz,Floriiruin,36.682,30/05/2023
-141,142,Ingetraud Schinke,42,Marktheidenfeld,Designer,60.607,04/11/2021
-142,143,Gundel Hande-Ebert,34,Bergzabern,Koreanistiker,50.259,20/09/2024
-143,144,Johannes Schacht,54,Anklam,Fachinformatiker,59.403,01/10/2020
-144,145,Luzia Ditschlerin,41,Spremberg,Elektroniker,49.407,19/10/2021
-145,146,Freia Oderwald B.Eng.,46,Seelow,Informatiker,64.996,19/07/2020
-146,147,Prof. Massimo Plath,49,Rottweil,Techniker,77.614,17/04/2021
-147,148,Ronny Geißler,52,Hainichen,Altenpfleger,68.939,06/02/2023
-148,149,Bastian Gorlitz MBA.,32,Spremberg,Altenpfleger,44.039,19/01/2021
-149,150,Rupert Kreusel,60,Döbeln,Florist,31.057,18/05/2021
-150,151,Rosl Bolander,32,Schlüchtern,Krankenschwester,41.007,21/09/2020
-151,152,Hans-Josef Gute-Ring,27,Aue,Fleischer,59.817,26/05/2023
-152,153,Ann-Kathrin Textor-Weihmann,62,Neustrelitz,Informatiker,75.45,04/06/2021
-153,154,Ulrike Bender B.Sc.,63,Auerbach,Designer,41.757,31/01/2024
-154,155,Ullrich Scholtz,30,Burgdorf,Asphaltbauer,43.107,31/07/2024
-155,156,Alban Wilmsen,47,Ilmenau,Pfleger,51.2,28/09/2020
-156,157,Helmuth Stroh,48,Kemnath,Fleischer,46.76,26/10/2022
-157,158,Maria-Theresia Liebelt,35,Flöha,Drogiiruin,66.594,10/01/2022
-158,159,Hannah Holt-Davids,56,Cottbus,Beamtiruin,37.557,07/11/2020
-159,160,Domenico Hellwig B.A.,41,Böblingen,Erzieiruin,41.537,06/05/2023
-160,161,Ing. Marcel Scholz,22,Mühldorf am Inn,Fachinformatiker,70.13,16/09/2020
-161,162,Tina Schottin B.Sc.,26,Zeulenroda,Fachinformatiker,43.761,30/03/2021
-162,163,Ing. Slavica Faust B.Eng.,62,Hagenow,Krankenschwester,30.499,22/09/2020
-163,164,Ing. Emanuel Gutknecht,20,Guben,Pilot,65.701,30/05/2022
-164,165,Hans Josef Jäkel,45,Rosenheim,Asphairuin,57.075,14/06/2024
-165,166,Beatrice Gertz,27,Stollberg,Chirurgiemechaniker,40.675,06/01/2022
-166,167,Harro Kobelt,37,Gunzenhausen,Desigiruin,73.056,21/07/2020
-167,168,Cathleen Jessel-Heintze,46,Weimar,Bäcker,70.729,11/03/2020
-168,169,Helma Rörricht,28,Burg,Polizist,31.174,19/07/2021
-169,170,Gaby Sauer,29,Germersheim,Programmierer,63.427,29/08/2020
-170,171,Marika Rohleder B.A.,60,Schlüchtern,Pfleger,46.195,23/08/2024
-171,172,Herr Ernest Jüttner MBA.,61,Jessen,Pfleger,42.004,31/07/2021
-172,173,Betti Ziegert,54,Grevesmühlen,Bäcker,52.927,19/12/2021
-173,174,Margrit Schaaf,19,Gräfenhainichen,Schornsteinfeger,79.323,20/11/2020
-174,175,Krystyna Söding,32,Bruchsal,Mathematiker,51.471,18/04/2023
-175,176,Leokadia Säuberlich,60,Sonneberg,Arzt,78.312,03/03/2021
-176,177,Helmar Pechel-Thies,48,Aue,Beamtiruin,61.606,17/11/2023
-177,178,Wolfram Nette-Herrmann,52,Pößneck,Asphaltbauer,41.275,23/09/2020
-178,179,Sieghard Biggen,39,Zeulenroda,Winzer,53.169,30/06/2023
-179,180,Edeltraut Hettner,48,Herzberg,Arzt,57.996,21/12/2021
-180,181,Tülay Fischer,53,Ribnitz-Damgarten,Bankkaufmann,64.436,21/07/2021
-181,182,Wladimir Grein Groth,39,Angermünde,Asphaltbauer,69.165,04/12/2023
-182,183,Edeltraut Gutknecht,64,Herford,Designer,75.766,24/09/2024
-183,184,Vassilios Bohlander,20,Böblingen,Forstwirt,53.611,05/06/2023
-184,185,Orhan Eimer,36,Wittstock,Fleisiruin,46.739,15/04/2022
-185,186,Lidwina Fröhlich,41,Gießen,Koreanistiker,48.355,27/12/2020
-186,187,Muharrem Junck-Losekann,38,Zeulenroda,Chirurgiemechaniker,68.682,01/04/2023
-187,188,Dan Anders,61,Strasburg,Florist,42.186,31/08/2023
-188,189,Hans-Wilhelm Zorbach,51,Lüdenscheid,Programmierer,78.917,24/11/2022
-189,190,Kay-Uwe Hornich,19,Peine,Binnenschiffer,36.553,17/06/2021
-190,191,Songül Klingelhöfer,26,Bischofswerda,Fachinformatiker,56.428,08/10/2021
-191,192,Giorgio Roht,23,Witzenhausen,Designer,47.73,23/12/2021
-192,193,Univ.Prof. Mathias Briemer,57,Rathenow,Schornsteinfeger,62.101,16/12/2021
-193,194,Desiree Spieß,54,Wernigerode,Koreanistiker,40.83,20/06/2020
-194,195,Ing. Ignatz Zirme,58,Stollberg,Forstiruin,58.48,21/09/2020
-195,196,Dipl.-Ing. Ludwina Schuchhardt,63,Diepholz,Programmierer,71.358,03/04/2021
-196,197,Prof. Arnim Flantz B.Eng.,60,Malchin,Florist,75.649,12/05/2023
-197,198,Heidemarie Franke B.Sc.,52,Waldmünchen,Erzieher,58.584,20/04/2020
-198,199,Gabriele Gehringer,25,Saarbrücken,Medizininformatiker,46.328,15/03/2023
-199,200,Liesa van der Dussen,53,Kehl,Koreanistiker,32.54,17/04/2023
+ID,Name,Alter,Stadt,Beruf,Gehalt,Datum
+1,Edmund Dehmel MBA.,30,Lemgo,Designer,41528.0,2021-05-13
+2,Drago Köster-auch Schlauchin,28,Schleiz,Fachinformatiker,41836.0,2023-06-15
+3,Albin Atzler,36,Säckingen,Mathematiker,73576.0,2020-02-17
+4,Micha Caspar-Kade,56,Flöha,Programmierer,78307.0,2021-05-10
+5,Antonino Holsten-Bärer,49,Stendal,Techniker,58290.0,2022-03-14
+6,Hans Dieter Hendriks MBA.,25,Wesel,Programmierer,56067.0,2023-06-23
+7,Ing. Eva-Maria Seidel,39,Crailsheim,Bäcker,63426.0,2024-03-26
+8,Gottlieb Ullmann,22,Grafenau,Winzer,46110.0,2023-05-10
+9,Zoran Süßebier,59,Potsdam,Forstwirt,68590.0,2020-01-20
+10,Falk Fechner,62,Scheinfeld,Winzer,65276.0,2024-09-28
+11,Dipl.-Ing. Roberto Dussen van B.Eng.,60,Tecklenburg,Mathematiker,73488.0,2022-08-10
+12,Dipl.-Ing. Radmila Hölzenbecher,39,Warendorf,Mathematiker,79574.0,2023-09-02
+13,Blanka Carsten,29,Weißenfels,Informatiker,59216.0,2021-05-15
+14,Krista Kramer,42,Kusel,Elektroniker,32316.0,2021-05-21
+15,Andrea Stroh,33,Lübben,Techniker,43895.0,2022-01-16
+16,Reingard Martin-Dobes,18,Königs Wusterhausen,Bäcker,74240.0,2024-08-16
+17,Reginald Hein,23,Säckingen,Altenpfleger,31532.0,2023-12-19
+18,Dipl.-Ing. Karlfried Baum,60,Pößneck,Forstwirt,44485.0,2023-05-23
+19,Christopher Bolzmann-Wagner,47,Pößneck,Polizist,64461.0,2020-12-04
+20,Lidwina Schenk,19,Höxter,Asphaltbauer,66082.0,2022-04-08
+21,Alex Heser-Schinke,55,Bad Kissingen,Bäcker,40542.0,2023-09-02
+22,Ing. Kathi Schweitzer,63,Moers,Mechaniker,45769.0,2020-06-29
+23,Annerose Bender,65,Neustadt am Rübenberge,Designer,41624.0,2020-05-03
+24,Rose Mälzer,34,Main-Höchst,Binnenschiffer,50903.0,2023-05-16
+25,Miguel Weinhage-Schulz,50,Bischofswerda,Binnenschiffer,38432.0,2023-12-05
+26,Timo Killer,51,Sankt Goar,Schornsteinfeger,37712.0,2021-02-21
+27,Frau Dajana Hornich MBA.,45,Roding,Augenoptiker,33164.0,2024-02-08
+28,Cecilia Hermighausen B.A.,44,Luckenwalde,Drogist,66562.0,2020-08-14
+29,Dipl.-Ing. Fernando Sontag MBA.,56,Wetzlar,Mathematiker,54440.0,2020-10-08
+30,Carola Schüler,22,Stollberg,Chemikant,62174.0,2021-05-28
+31,Gerwin Biggen,29,Burglengenfeld,Programmierer,66624.0,2021-02-14
+32,Darko Schenk,48,Mallersdorf,Designer,53565.0,2022-10-08
+33,Hertha Schmidtke,54,Soltau,Friseur,40436.0,2022-07-26
+34,Univ.Prof. Hugo Heydrich,23,Ingolstadt,Designer,45613.0,2021-12-28
+35,Ekrem Weiß,36,Artern,Informatiker,31879.0,2020-12-21
+36,Gert Ruppersberger,42,Grimma,Elektroniker,63747.0,2021-01-18
+37,Emilie Hahn B.A.,50,Apolda,Ausbaufacharbeiter,73457.0,2023-06-09
+38,Dr. Marie-Therese Fischer MBA.,18,Wiedenbrück,Chirurgiemechaniker,32872.0,2021-01-04
+39,Peter-Michael Karz,65,Fürstenwalde,Programmierer,74680.0,2020-09-16
+40,Lidwina Eimer,35,Aachen,Krankenschwester,54761.0,2021-03-29
+41,Brian Röhrdanz,33,Uelzen,Medizininformatiker,67693.0,2021-09-09
+42,Ben Losekann-Stey,48,Waldmünchen,Designer,38162.0,2021-02-20
+43,Ing. Ida Trommler,31,Passau,Winzer,59692.0,2023-07-19
+44,Ing. Anne Oestrovsky B.A.,40,Garmisch-Partenkirchen,Bankkaufmann,76013.0,2022-02-12
+45,Ing. Knut Wesack B.Sc.,60,Bayreuth,Chirurgiemechaniker,66501.0,2020-06-01
+46,Susanna Dietz B.Sc.,63,Mayen,Elektroniker,57476.0,2022-05-17
+47,Annemarie Geisel,41,Kleve,Altenpfleger,54801.0,2022-12-04
+48,Hans-Michael Weitzel,29,Rothenburg ob der Tauber,Bäcker,57702.0,2020-02-03
+49,Hans-Herbert Wiek,62,Schwäbisch Gmünd,Florist,77284.0,2023-01-27
+50,Catharina Mitschke,41,Altötting,Koreanistiker,60599.0,2023-02-18
+51,Mohamed Schottin,30,Bremen,Schornsteinfeger,73315.0,2023-08-04
+52,Luise Rohleder MBA.,39,Beilngries,Erzieher,49510.0,2023-03-26
+53,Daria Trub,55,Ansbach,Florist,37692.0,2020-08-25
+54,Gerda Heß-Weinhage,59,Lübeck,Winzer,46910.0,2022-04-06
+55,Karl-Heinz Heidrich,54,Nauen,Techniker,54896.0,2024-07-16
+56,Utz Aumann,36,Kehl,Elektroniker,45098.0,2020-03-17
+57,Theodora Briemer,33,Großenhain,Augenoptiker,72510.0,2022-11-03
+58,Ortrud Fischer,60,Stollberg,Medizininformatiker,66822.0,2021-01-15
+59,Univ.Prof. Fabienne Hiller,59,Merseburg,Chirurgiemechaniker,52946.0,2024-06-07
+60,Laszlo Trapp,51,Deggendorf,Krankenschwester,62545.0,2020-09-05
+61,Elke Hiller,46,Finsterwalde,Programmierer,36759.0,2022-03-19
+62,Dr. Hans-Werner Grein Groth B.A.,60,Plauen,Arzt,40041.0,2023-04-26
+63,Oscar Tlustek,26,Olpe,Artist,69295.0,2023-03-08
+64,Aribert Hethur,40,Eisenberg,Elektroniker,74518.0,2022-09-06
+65,Janusz Süßebier,44,Zeulenroda,Techniker,34554.0,2023-08-17
+66,Cathleen Gunpf,19,Wunsiedel,Chirurgiemechaniker,71758.0,2022-12-04
+67,Herr Senol Becker,59,Wurzen,Arzt,46955.0,2020-09-26
+68,Egbert Nette B.Sc.,31,Lobenstein,Florist,62384.0,2022-06-01
+69,Jann Buchholz B.Eng.,56,Oberviechtach,Winzer,60072.0,2024-04-19
+70,Gerdi Mude,39,Flöha,Bäcker,60232.0,2023-12-05
+71,Gerold Nette-Hörle,64,Mallersdorf,Winzer,47771.0,2022-02-26
+72,Dipl.-Ing. Sönke Geisler MBA.,34,Pritzwalk,Techniker,57250.0,2021-05-02
+73,Alicia Birnbaum B.Sc.,42,Gütersloh,Mechaniker,41995.0,2022-03-28
+74,Univ.Prof. Solveig Fiebig,48,Crailsheim,Schornsteinfeger,35813.0,2022-05-24
+75,Götz Bachmann B.Eng.,35,Großenhain,Mathematiker,33879.0,2024-07-04
+76,Dipl.-Ing. Frithjof Baum,20,Starnberg,Techniker,75246.0,2021-05-02
+77,Stephan Anders,56,Ochsenfurt,Arzt,33751.0,2020-09-24
+78,Dr. Angelica Segebahn,49,Monschau,Koreanistiker,56534.0,2022-10-22
+79,Univ.Prof. Marta Tröst,32,Göttingen,Polizist,79812.0,2020-05-05
+80,Eberhard Gutknecht,51,Oschatz,Artist,53291.0,2021-04-23
+81,Dipl.-Ing. Emanuel Kostolzin B.Eng.,62,Kötzting,Augenoptiker,57014.0,2020-02-13
+82,Patrik Jacobi Jäckel-Preiß,27,Mühlhausen,Friseur,78174.0,2020-03-03
+83,Heiderose Stey MBA.,48,Brand,Ausbaufacharbeiter,55291.0,2021-07-12
+84,Univ.Prof. Cilly Linke,45,Garmisch-Partenkirchen,Artist,49137.0,2020-01-30
+85,Ingmar Fechner MBA.,47,Olpe,Techniker,40947.0,2022-06-01
+86,Thies Hesse,42,Jülich,Elektroniker,58080.0,2022-04-03
+87,Hinrich Bruder,59,Eisenberg,Pilot,78133.0,2023-02-28
+88,Sükrü Kruschwitz-Baum,57,Eberswalde,Fleischer,64256.0,2020-05-18
+89,Donald Trubin B.Eng.,22,Angermünde,Krankenschwester,55286.0,2024-05-26
+90,Prof. Artur Rogge MBA.,56,Genthin,Mechaniker,65056.0,2022-08-26
+91,Dr. Peggy Killer B.A.,57,Helmstedt,Bäcker,33090.0,2020-06-25
+92,Karsten Förster B.Eng.,32,Spremberg,Chirurgiemechaniker,47032.0,2022-06-25
+93,Gundi Löchel,23,Husum,Chemikant,53144.0,2021-12-05
+94,Claudius Matthäi,20,Burglengenfeld,Informatiker,54354.0,2024-07-24
+95,Prof. Louis Ritter,37,Hohenmölsen,Krankenschwester,44016.0,2022-05-26
+96,Ayse Mosemann,52,Senftenberg,Florist,63628.0,2022-04-27
+97,Patrik Dowerg B.Eng.,28,Lörrach,Asphaltbauer,36618.0,2021-09-09
+98,Thoralf Ebert B.A.,32,Calw,Florist,75183.0,2023-01-02
+99,Silvana Kallert MBA.,40,Aue,Drogist,50596.0,2024-04-03
+100,Rahel Hamann B.A.,38,Brandenburg,Florist,78740.0,2023-05-12
+101,Univ.Prof. Gerd Koch B.Sc.,60,Hannover,Pilot,55261.0,2024-06-01
+102,Vladimir Beier,41,Weißenfels,Mathematiker,79363.0,2023-01-23
+103,Hans Georg Gerlach,47,Celle,Mechaniker,33962.0,2021-02-10
+104,Prof. Brian Misicher,44,Ravensburg,Arzt,50123.0,2021-05-29
+105,Ing. Jacek Schäfer B.Eng.,22,Schwandorf,Informatiker,52954.0,2020-09-16
+106,Helmtrud Koch II,54,Augsburg,Schornsteinfeger,51309.0,2023-09-03
+107,Uschi Jacob-Scheel,56,Lichtenfels,Pilot,71208.0,2023-04-11
+108,Patric Kambs,50,Schwabmünchen,Chirurgiemechaniker,77750.0,2023-12-27
+109,Ekkehard Schleich B.Sc.,43,Parsberg,Mathematiker,33672.0,2021-07-13
+110,Dipl.-Ing. Siegrun Mohaupt B.Sc.,43,Zossen,Pfleger,43990.0,2020-04-30
+111,Marko Heinz,35,Wertingen,Ausbaufacharbeiter,52688.0,2022-07-25
+112,Clara Ernst,60,Bautzen,Ausbaufacharbeiter,43436.0,2022-09-04
+113,Saskia Henk,26,Karlsruhe,Ausbaufacharbeiter,35268.0,2020-06-23
+114,Alma Dörr,36,Güstrow,Techniker,68986.0,2024-07-14
+115,Kathi Beckmann-Möchlichen,31,Bremervörde,Koreanistiker,63046.0,2024-02-02
+116,Andreas Roskoth,63,Koblenz,Forstwirt,55186.0,2020-07-05
+117,Inga Koch,20,Böblingen,Fachinformatiker,73821.0,2023-05-04
+118,Dorle Nerger,65,Kaiserslautern,Chirurgiemechaniker,67827.0,2021-01-25
+119,Romy Schleich-Heintze,49,Augsburg,Asphaltbauer,53904.0,2024-04-28
+120,Wieslaw Pruschke,55,Neustadt am Rübenberge,Designer,44585.0,2020-08-24
+121,Univ.Prof. Gustav Flantz B.Sc.,61,Cuxhaven,Bankkaufmann,38395.0,2024-01-15
+122,Maurizio Hamann,18,Hettstedt,Bankkaufmann,33487.0,2024-01-05
+123,Vinko Bauer-Segebahn,30,Parsberg,Forstwirt,33227.0,2021-12-05
+124,Prof. Kay-Uwe Rörricht,34,Rothenburg ob der Tauber,Artist,46955.0,2020-04-01
+125,Egbert Rosenow,50,Illertissen,Asphaltbauer,57966.0,2022-08-14
+126,Frieder Koch II B.A.,34,Altentreptow,Arzt,34006.0,2021-07-13
+127,Jacek Atzler B.Sc.,44,Illertissen,Pfleger,79444.0,2021-12-01
+128,Heribert Schlosser,47,Groß-Gerau,Pilot,77448.0,2024-05-17
+129,Prof. Marten Lindau,54,Grafenau,Designer,35318.0,2020-07-16
+130,Jens-Uwe Anders,34,Wesel,Krankenschwester,73429.0,2020-08-30
+131,Frau Florence Thanel B.Eng.,36,Angermünde,Krankenschwester,64347.0,2022-01-06
+132,Hansjürgen Peukert-Segebahn,25,Plauen,Augenoptiker,72121.0,2024-03-30
+133,Ingrid Dippel,49,Illertissen,Medizininformatiker,66014.0,2024-07-07
+134,Gerta Tintzmann B.A.,21,Wismar,Winzer,52135.0,2023-04-16
+135,Irmhild Bähr-Ring,18,Plauen,Beamter,39011.0,2023-09-04
+136,Justus Schenk,27,Meiningen,Chemikant,64684.0,2021-06-05
+137,Dimitri Wirth-Nerger,39,Sondershausen,Forstwirt,72138.0,2021-08-10
+138,Erhard Hermann,39,Stadtsteinach,Techniker,45817.0,2021-11-08
+139,Heinz-Gerd Etzold,46,Lüdinghausen,Florist,37016.0,2023-08-22
+140,Dr. Karl-Werner Schönland MBA.,30,Schwäbisch Gmünd,Arzt,51658.0,2023-11-29
+141,Joachim Graf,50,Borna,Designer,32555.0,2020-04-19
+142,Univ.Prof. Wilfriede Hein B.Sc.,24,Wittmund,Florist,38101.0,2020-04-09
+143,Lea Kallert,34,Uffenheim,Bankkaufmann,34287.0,2022-01-05
+144,Saban Schmidt,61,Freital,Programmierer,57424.0,2020-10-07
+145,Bärbel Atzler,51,Schwäbisch Gmünd,Techniker,50537.0,2020-03-06
+146,Jörn Juncken,39,Zschopau,Pfleger,54410.0,2023-10-17
+147,Gerwin Rohleder B.Eng.,19,Jessen,Bankkaufmann,79073.0,2024-07-01
+148,Ing. Friedhilde Hethur MBA.,30,Schmölln,Erzieher,36165.0,2022-10-02
+149,Aenne Schinke,58,Erbisdorf,Pilot,77289.0,2024-05-11
+150,Katherina Stadelmann,36,Dessau,Beamter,58179.0,2020-06-15
+151,Prof. Marian Hölzenbecher,52,Ahaus,Fleischer,79786.0,2023-12-24
+152,Cynthia Lange,54,Soltau,Mathematiker,75119.0,2022-10-21
+153,Dr. Eleni Kabus B.Eng.,31,Gerolzhofen,Asphaltbauer,70551.0,2023-09-17
+154,Blanka Krause,47,Tuttlingen,Chemikant,74399.0,2024-02-29
+155,Ing. Heinz-Josef Niemeier B.Sc.,41,Eisenhüttenstadt,Mathematiker,67562.0,2022-02-20
+156,Irina Eckbauer-Hofmann,30,Jena,Asphaltbauer,74490.0,2023-11-09
+157,Erica Stolze,39,Arnstadt,Krankenschwester,34345.0,2022-04-29
+158,Asta Winkler B.Sc.,36,Northeim,Medizininformatiker,33632.0,2022-04-24
+159,Lydia Hettner B.Sc.,29,Wolfenbüttel,Friseur,55799.0,2021-03-13
+160,Dr. Undine Lindau,37,Eichstätt,Koreanistiker,37558.0,2023-12-19
+161,Ilona Sontag-Kusch,40,Magdeburg,Binnenschiffer,50277.0,2021-04-09
+162,Wieslaw Bärer,56,Mayen,Chemikant,64100.0,2022-09-10
+163,Klaus-Werner Haering,23,Miltenberg,Elektroniker,45702.0,2022-02-08
+164,Trudi Zahn,45,Schwerin,Fleischer,46639.0,2021-05-30
+165,Hans-Jochen Hornig,29,Peine,Augenoptiker,73285.0,2024-01-16
+166,Antoinette Wilms,22,Witzenhausen,Asphaltbauer,35121.0,2022-10-21
+167,Karlheinz Roht MBA.,51,Ingolstadt,Elektroniker,35505.0,2021-10-22
+168,Paul-Heinz Salz-Riehl,45,Werdau,Pfleger,66940.0,2024-08-10
+169,Univ.Prof. Martin Hölzenbecher B.A.,49,Bamberg,Florist,57508.0,2022-11-24
+170,Magret Trupp,20,Torgau,Informatiker,60625.0,2020-06-06
+171,Rüdiger Eberth,45,Rochlitz,Bäcker,79787.0,2021-07-28
+172,Trudel Graf MBA.,51,Malchin,Florist,30811.0,2023-11-17
+173,Ing. Karl Heidrich,47,Regensburg,Pilot,66627.0,2022-01-20
+174,Prof. Eugenia Liebelt B.A.,25,Rosenheim,Pfleger,75675.0,2020-12-10
+175,Helma Wende,26,Cottbus,Pfleger,65453.0,2023-01-21
+176,Hubert Spieß,43,Pirmasens,Bankkaufmann,69719.0,2024-08-06
+177,Rosa-Maria Roht-Trapp,34,Artern,Artist,45310.0,2020-06-09
+178,Denny Gunpf,32,Senftenberg,Bäcker,54420.0,2021-10-24
+179,Josefa Hamann,50,Stade,Drogist,42683.0,2024-04-26
+180,Mikhail Hering,20,Kaiserslautern,Polizist,73936.0,2020-04-10
+181,Lothar Dehmel B.A.,36,Forchheim,Pilot,36500.0,2024-05-16
+182,Necati Kallert-Ring,19,Germersheim,Ausbaufacharbeiter,62446.0,2024-01-29
+183,Mandy Bien,27,Paderborn,Schornsteinfeger,69873.0,2024-05-20
+184,Marvin Gerlach,28,Dieburg,Fachinformatiker,52675.0,2023-04-30
+185,Paulina Kusch,34,Gifhorn,Informatiker,76154.0,2023-04-10
+186,Sybilla Geisel,25,Greifswald,Pilot,71862.0,2023-06-13
+187,Frau Norma Bruder B.A.,19,Nabburg,Programmierer,44798.0,2022-02-08
+188,Alexei auch Schlauchin,53,Delitzsch,Elektroniker,64129.0,2020-12-22
+189,Inge Rose,28,Klötze,Florist,68118.0,2022-07-02
+190,Dipl.-Ing. Eugen Gorlitz,32,Steinfurt,Designer,47929.0,2021-09-24
+191,Dr. Alessandro Jockel,39,Havelberg,Fleischer,71363.0,2020-08-08
+192,Karlheinz Eberhardt,32,Lüneburg,Winzer,38615.0,2024-06-21
+193,Theo Reising,18,Weimar,Drogist,47784.0,2023-07-18
+194,Herr Raik Barth,52,Kelheim,Erzieher,73634.0,2020-10-04
+195,Frau Dorina Säuberlich,41,Tuttlingen,Artist,51647.0,2020-06-20
+196,Imke Kroker,58,Forst,Florist,44349.0,2020-12-24
+197,Mohammad Wesack,19,Steinfurt,Altenpfleger,53697.0,2022-03-07
+198,Anett Kade-Stahr,40,Wolfenbüttel,Asphaltbauer,65822.0,2023-07-18
+199,Herr Leo Dörr,24,Parsberg,Bankkaufmann,54871.0,2020-11-09
+200,Christiana Drewes,23,Aurich,Forstwirt,44505.0,2023-02-10
+1,Justus Budig,54,Deggendorf,Medizininformatiker,64020.0,2023-05-23
+2,Prof. Christel Becker,44,Kemnath,Augenoptiker,62804.0,2020-04-21
+3,Gundi Rörricht,18,Waren,Mechaniker,,2023-10-14
+4,Tanja Wende B.Eng.,50,Fürstenwalde,Binnenschiffer,,2023-08-19
+5,Cäcilia Dörschner,40,Sebnitz,Pilot,,2022-07-06
+6,Eva-Marie Barth-Schüler,56,Bogen,Artist,54053.0,2020-04-13
+7,Matthias Briemer,27,Viechtach,Elektroniker,34699.0,2020-06-19
+8,Wolfgang Sontag,63,Apolda,Friseur,73969.0,2022-02-27
+9,Frau Martine Albers,23,Neuruppin,Polizist,73877.0,2023-08-21
+10,Klaas Schulz-Beier,34,Perleberg,Medizininformatiker,,2024-09-25
+11,Dittmar Ring,23,Sankt Goar,Informatiker,52492.0,2024-07-18
+12,Marianne Lange,48,Bernburg,Designer,46343.0,2020-01-20
+13,Dr. Marie-Therese Hölzenbecher,41,,Chemikant,41495.0,2022-01-24
+14,Dipl.-Ing. Ulla Hartung B.Sc.,46,Brand,Asphaltbauer,42156.0,2023-06-28
+15,Sofie Hauffer,23,Mallersdorf,Koreanistiker,,2024-06-01
+16,Svenja Schuster-Holsten,43,Pegnitz,Schornsteinfeger,56049.0,2023-08-26
+17,Rosmarie Jacob,39,Kassel,Altenpfleger,57452.0,2022-08-25
+18,Hubertine Säuberlich,31,Northeim,Ausbaufacharbeiter,32597.0,2022-09-27
+19,Anto Lindner-Hornig,40,,Fachinformatiker,,2023-01-22
+20,Alexandros Junken,28,Stuttgart,Techniker,,2022-07-22
+21,Zlatko Stadelmann,38,Eutin,Fachinformatiker,,2020-08-05
+22,Gino Henck,44,Hamburg,Elektroniker,,2020-12-17
+23,Karl-Jürgen Stumpf,57,München,Bankkaufmann,65943.0,2023-07-01
+24,Margita Stumpf-Junken,48,Demmin,Pfleger,,2023-07-10
+25,Isidor Schacht-Zimmer,41,Kitzingen,Polizist,,2022-09-13
+26,Ariane Ditschlerin,51,Hannover,Polizist,57188.0,2023-03-30
+27,Traude Jüttner,43,Oschatz,Augenoptiker,38501.0,2023-01-09
+28,Nada Radisch,28,Zerbst,Augenoptiker,67668.0,2020-11-09
+29,Edeltraud Schönland-Kensy,52,,Asphaltbauer,31500.0,2022-04-23
+30,Constanze Jopich-Fechner,60,,Friseur,,2020-06-17
+31,Dajana Butte,35,Hildburghausen,Bankkaufmann,42062.0,2023-05-22
+32,Guenther Hesse B.Eng.,30,Torgau,Koreanistiker,,2023-02-28
+33,Slawomir Lindner,60,Bersenbrück,Binnenschiffer,,2021-11-03
+34,Marlis Mälzer,34,Konstanz,Informatiker,40359.0,2021-08-22
+35,Annamaria van der Dussen,32,Marienberg,Programmierer,52916.0,2021-02-14
+36,Oswin Wende,42,Büsingen am Hochrhein,Florist,,2023-10-19
+37,Clemens Mangold-Kensy,44,Havelberg,Schornsteinfeger,,2021-01-09
+38,Erhardt Koch,44,Querfurt,Polizist,45237.0,2022-11-30
+39,Hans Jörg Rohleder,34,Mellrichstadt,Elektroniker,36768.0,2022-06-15
+40,Edgar Schuchhardt,31,Beilngries,Schornsteinfeger,,2020-12-02
+41,Nicolas Häring B.Sc.,58,,Fleischer,73025.0,2023-05-20
+42,Dipl.-Ing. Gerhard Fiebig,51,Helmstedt,Winzer,,2023-08-17
+43,Mareen Jopich,48,Hohenmölsen,Bäcker,,2022-05-28
+44,Yvette Speer,53,Wunsiedel,Drogist,65054.0,2024-08-14
+45,Valeska Dussen van,64,Lübz,Arzt,70583.0,2023-08-07
+46,Dorothea Flantz,18,,Koreanistiker,74529.0,2022-09-18
+47,Waltraud Mende B.Eng.,32,Neuss,Florist,37470.0,2023-08-09
+48,Eileen Henk,23,Mainburg,Pilot,39607.0,2022-02-18
+49,Dusan Häring-Wilmsen,38,Augsburg,Chirurgiemechaniker,70331.0,2020-07-13
+50,Nuran Stadelmann,56,Guben,Pilot,72855.0,2020-01-02
+51,Stephen Säuberlich-Aumann,53,Malchin,Artist,36381.0,2024-08-16
+52,Luciano Roskoth,62,Stollberg,Koreanistiker,68977.0,2021-08-25
+53,Dipl.-Ing. Herwig Holt MBA.,39,Werdau,Krankenschwester,,2024-04-21
+54,Jost Tröst-Köhler,18,Güstrow,Elektroniker,53495.0,2024-05-09
+55,Concetta Döhn B.A.,46,Celle,Bankkaufmann,,2020-04-28
+56,Anny Wernecke MBA.,50,,Polizist,,2023-08-09
+57,Zeki Barth,40,Soest,Fachinformatiker,,2024-04-16
+58,Tamara Stolze,34,Stade,Bankkaufmann,,2022-08-13
+59,Mirko Wohlgemut,22,Hannoversch Münden,Forstwirt,56675.0,2021-07-16
+60,Erdmute Beckmann-Kramer,46,Quedlinburg,Winzer,39650.0,2020-06-07
+61,Gitte Geisler,41,Bautzen,Mechaniker,,2020-08-14
+62,Christopher Holt,52,Wolfach,Fachinformatiker,,2024-01-04
+63,Stephen Thies B.Eng.,52,,Chirurgiemechaniker,40019.0,2023-04-10
+64,Maria-Luise Bauer,56,Holzminden,Pilot,67432.0,2020-05-11
+65,Dipl.-Ing. Ellinor Vollbrecht B.A.,58,Hünfeld,Designer,70015.0,2021-08-10
+66,Irmela Harloff,34,Schlüchtern,Artist,72538.0,2020-08-05
+67,Heinz-Otto Christoph,52,Geithain,Fachinformatiker,54986.0,2020-07-30
+68,Claus-Dieter Rosenow,27,,Forstwirt,54527.0,2022-09-01
+69,Leonie Haering,18,Hansestadttralsund,Mathematiker,69440.0,2021-07-01
+70,Karl-Otto Jäkel B.A.,42,Jülich,Artist,73830.0,2022-05-27
+71,Gertraut Kruschwitz MBA.,39,Worbis,Drogist,43891.0,2022-02-25
+72,Ekaterina Mies,62,,Krankenschwester,34031.0,2020-09-19
+73,Herr Ilja Hornig MBA.,38,,Techniker,68523.0,2022-07-08
+74,Siegbert Weinhold,33,,Arzt,30390.0,2024-01-05
+75,Frieder Wesack MBA.,38,,Bäcker,,2021-05-23
+76,Rolf Wagner,24,,Techniker,,2024-04-30
+77,Prof. Corina Bender MBA.,41,Plauen,Bankkaufmann,,2021-08-23
+78,Piotr Weimer B.A.,36,Zeulenroda,Koreanistiker,76522.0,2024-02-15
+79,Ottmar Staude,30,Schrobenhausen,Chemikant,54122.0,2021-10-02
+80,Nikolaos Faust B.A.,64,Auerbach,Pfleger,44125.0,2020-12-30
+81,Dipl.-Ing. Abdullah Hamann MBA.,56,,Chirurgiemechaniker,,2023-02-07
+82,Mustafa Schleich,45,Weißwasser,Arzt,75956.0,2020-09-22
+83,Jessica Meyer,44,Wanzleben,Informatiker,53752.0,2023-03-29
+84,Klara Sölzer,39,Wertingen,Arzt,74120.0,2020-08-12
+85,Danuta Noack-Lübs,63,Berlin,Techniker,30653.0,2023-08-12
+86,Türkan Ruppert,30,Uffenheim,Designer,57229.0,2021-01-26
+87,Katja Häring,36,,Florist,43828.0,2023-07-24
+88,Anka Radisch,59,Soest,Fleischer,39396.0,2023-04-07
+89,Univ.Prof. Stephan Römer B.Sc.,61,,Programmierer,43180.0,2024-01-01
+90,Dipl.-Ing. Korinna Holzapfel,24,,Fleischer,45155.0,2023-03-08
+91,Margit Kreusel,42,,Ausbaufacharbeiter,57008.0,2024-07-14
+92,Manja Weiß,49,Karlsruhe,Schornsteinfeger,,2022-08-25
+93,Christl Vogt,37,Crailsheim,Beamter,47823.0,2022-07-06
+94,Jenny Gute,36,Kelheim,Techniker,78538.0,2021-07-04
+95,Margit Johann,54,Kaiserslautern,Chemikant,58411.0,2022-05-05
+96,Jacob Jockel,36,Euskirchen,Mechaniker,,2023-01-27
+97,Liesa Rörricht,65,Rathenow,Krankenschwester,,2023-03-01
+98,Hans Peter Aumann,32,Viechtach,Programmierer,,2020-03-06
+99,Pauline Dippel,59,,Mathematiker,43719.0,2021-06-12
+100,Karl-Friedrich Trupp,24,Lobenstein,Artist,35649.0,2023-07-22
+101,Rahel Stiffel,25,Moers,Chemikant,,2020-06-11
+102,Hans-Henning Spieß,35,Mellrichstadt,Forstwirt,66096.0,2022-05-31
+103,Imelda Eberhardt,45,Sankt Goarshausen,Medizininformatiker,,2023-10-22
+104,Petros Gertz,31,Bad Mergentheim,Altenpfleger,,2020-05-30
+105,Wladimir Rädel B.Eng.,55,Cloppenburg,Designer,,2020-04-11
+106,Serge Gieß,30,Helmstedt,Chirurgiemechaniker,,2020-11-01
+107,Univ.Prof. Hilma Wiek,38,Lörrach,Fachinformatiker,,2022-09-29
+108,Wencke Mosemann B.Eng.,54,Zerbst,Designer,73605.0,2022-04-03
+109,Jan Gotthard-Jopich,64,Grevesmühlen,Polizist,,2024-07-29
+110,Marie-Luise Hövel-Herrmann,33,Rathenow,Bäcker,60082.0,2021-10-01
+111,Ryszard Förster,60,Lüneburg,Chemikant,76454.0,2021-04-04
+112,Marga Meyer,50,Seelow,Binnenschiffer,64622.0,2024-02-17
+113,Greta Hethur,44,Konstanz,Krankenschwester,65971.0,2023-06-28
+114,Benita Schuchhardt,37,Wismar,Krankenschwester,33739.0,2022-01-28
+115,Jost Pruschke,24,Coburg,Polizist,,2021-08-03
+116,Fridolin Wagenknecht,42,Parchim,Erzieher,77067.0,2023-08-18
+117,Marija Hübel,26,,Chemikant,61170.0,2024-08-17
+118,Catharina Mosemann,41,Düren,Chemikant,47465.0,2021-07-30
+119,Anika Eimer-Kruschwitz,18,Haldensleben,Arzt,,2022-01-01
+120,Ella Kusch-Hörle,29,Parchim,Winzer,59316.0,2021-12-01
+121,Dr. Toralf Dowerg B.Sc.,63,Sternberg,Medizininformatiker,43663.0,2024-02-09
+122,Univ.Prof. Alicja Stoll,50,,Chirurgiemechaniker,60148.0,2024-01-23
+123,Wera Butte,39,Rastatt,Programmierer,69692.0,2024-04-22
+124,Anne-Kathrin Trupp-auch Schlauchin,48,Diepholz,Chirurgiemechaniker,69416.0,2024-08-17
+125,Klothilde Rogner B.Sc.,35,Waren,Chirurgiemechaniker,69833.0,2024-06-21
+126,Jerzy Wohlgemut,30,,Krankenschwester,,2024-05-06
+127,Herr Francis Steckel,49,,Pilot,49767.0,2023-04-03
+128,Ehrentraud Flantz B.Eng.,37,Hannover,Forstwirt,,2022-12-28
+129,Margret Birnbaum B.Eng.,33,Stadtroda,Programmierer,,2023-10-12
+130,Fabienne Sontag,64,Weißwasser,Schornsteinfeger,37950.0,2020-09-20
+131,Raymund Jacob,56,Grevesmühlen,Forstwirt,,2022-10-09
+132,Ing. Karl-August Henschel,34,,Drogist,74304.0,2023-08-23
+133,Lucie Christoph B.Sc.,19,Regensburg,Pfleger,44618.0,2022-08-04
+134,Bodo Seifert,46,Germersheim,Programmierer,53814.0,2024-02-04
+135,Ing. Traude Säuberlich MBA.,43,Freital,Fachinformatiker,,2022-05-17
+136,Dragica Wilmsen MBA.,22,Cuxhaven,Erzieher,60349.0,2023-11-27
+137,Josefine Blümel,21,,Fachinformatiker,,2022-02-23
+138,Sophie Ruppert,40,Hamburg,Krankenschwester,31096.0,2021-07-14
+139,Univ.Prof. Hiltrud Haering,38,,Bankkaufmann,,2020-11-04
+140,Univ.Prof. Susana Stadelmann,19,Seelow,Programmierer,37724.0,2023-11-01
+141,Hagen Bähr,50,Schwandorf,Koreanistiker,52381.0,2022-09-04
+142,Mirco Ladeck B.Sc.,52,,Friseur,,2022-10-11
+143,Siegrid Jacobi Jäckel-Hornig,56,Dessau,Asphaltbauer,41017.0,2023-08-19
+144,Esther Metz-Mentzel,57,Zossen,Chirurgiemechaniker,57391.0,2021-05-12
+145,Walburga Barth B.A.,35,Melsungen,Fleischer,31624.0,2023-10-04
+146,Margrit Schuchhardt B.Eng.,45,Haldensleben,Winzer,74434.0,2021-10-05
+147,Prof. Simone Bähr B.Sc.,58,Wittenberg,Schornsteinfeger,,2021-08-25
+148,Erica Wagenknecht,19,Torgau,Schornsteinfeger,53088.0,2023-04-22
+149,Toralf Kobelt,42,Werdau,Arzt,64193.0,2023-05-08
+150,Andree Seifert,49,Hersbruck,Polizist,41244.0,2023-03-21
+151,Dietmar Kobelt-Gute,30,Stade,Erzieher,37285.0,2024-08-27
+152,Ljiljana Häring B.A.,60,Grafenau,Fachinformatiker,74670.0,2021-11-04
+153,Hans Jürgen Klotz,47,Oranienburg,Forstwirt,,2023-02-24
+154,Liesbeth Gröttner,52,,Pfleger,,2020-05-22
+155,Sabine Butte-Ring,36,Viersen,Bäcker,,2024-08-11
+156,Heinz-Josef Hörle,18,,Programmierer,79621.0,2020-05-25
+157,Annerose Junitz,48,,Pfleger,69429.0,2024-04-04
+158,Heino Kobelt B.Eng.,28,Tecklenburg,Winzer,46902.0,2022-01-15
+159,Türkan Zirme MBA.,64,Kemnath,Beamter,71029.0,2020-03-09
+160,Frau Christa Mülichen B.Eng.,47,,Fachinformatiker,73460.0,2023-08-08
+161,Telse Jähn,65,,Drogist,30788.0,2024-03-29
+162,Antonio Sontag,42,Ludwigsburg,Mathematiker,79840.0,2023-07-23
+163,Ing. Linus Radisch,55,,Schornsteinfeger,,2023-06-16
+164,Herrmann Austermühle,27,Wernigerode,Beamter,42899.0,2022-01-24
+165,Frau Viola Bohlander,42,Tirschenreuth,Artist,,2024-06-25
+166,Roland Weiß B.A.,28,,Mechaniker,,2021-10-24
+167,Brigitta Stey-Mälzer,51,Geithain,Artist,43880.0,2023-07-10
+168,Dipl.-Ing. Heidemarie Reichmann,24,,Mathematiker,,2020-05-13
+169,Dipl.-Ing. Andrej Kohl MBA.,54,Steinfurt,Informatiker,39925.0,2023-01-14
+170,Simona Buchholz,40,Heinsberg,Augenoptiker,65472.0,2023-05-24
+171,Achim Bien,42,Grevesmühlen,Designer,52233.0,2023-07-05
+172,Prof. Annelise Jähn,21,Rehau,Beamter,31914.0,2020-01-20
+173,Gundi Ladeck,29,Augsburg,Koreanistiker,76809.0,2023-11-27
+174,Samuel Bruder,22,Wanzleben,Florist,,2023-07-03
+175,Heiderose Heser,57,Vilsbiburg,Chemikant,,2023-01-20
+176,Dr. Gabriella Hande,57,,Ausbaufacharbeiter,50044.0,2022-02-14
+177,Alf Schäfer,44,Angermünde,Drogist,,2024-04-05
+178,Prof. Anna Löffler,59,,Koreanistiker,40986.0,2024-06-01
+179,Otfried Kostolzin B.Eng.,34,Rathenow,Designer,44444.0,2020-07-20
+180,Leander Faust B.Eng.,45,Schmölln,Artist,45443.0,2021-08-20
+181,Timm Löchel B.Eng.,30,Recklinghausen,Beamter,57431.0,2020-02-24
+182,Phillip Putz,28,,Techniker,64350.0,2023-07-09
+183,Bogdan Häring,58,Lichtenfels,Bankkaufmann,58213.0,2021-11-01
+184,Rouven Henk B.Sc.,21,Norden,Krankenschwester,30223.0,2023-04-26
+185,Sepp Karge,38,Kassel,Beamter,41299.0,2024-05-21
+186,Czeslaw Keudel,64,,Mechaniker,44343.0,2020-08-25
+187,Hannes Hövel-Karge,58,Marienberg,Elektroniker,,2024-04-03
+188,Heinz-Wilhelm Holt-Butte,43,Haldensleben,Pfleger,,2020-01-19
+189,Marga Klotz,49,,Augenoptiker,,2023-04-22
+190,Nicolas Henck,27,Ilmenau,Designer,37074.0,2023-04-25
+191,Franz-Josef Herrmann,64,Eutin,Binnenschiffer,47252.0,2021-04-06
+192,Ria Henschel,36,,Artist,63586.0,2022-10-29
+193,Thea Schweitzer,23,Osterburg,Mathematiker,55773.0,2023-10-21
+194,Hans-Theo Gude-Scholtz,46,Geithain,Medizininformatiker,,2024-09-15
+195,Dipl.-Ing. Jakob Barth,32,Osterburg,Arzt,,2021-01-27
+196,Marc Eberhardt,19,Mühlhausen,Arzt,48472.0,2021-03-08
+197,Ingrid Kade,36,,Bankkaufmann,30140.0,2020-09-15
+198,Niklas Butte,39,Schwarzenberg,Ausbaufacharbeiter,32366.0,2021-02-25
+199,Arzu Wilmsen,62,Mettmann,Mathematiker,58136.0,2023-03-05
+200,Gabi Weiß B.A.,45,Kleve,Techniker,58442.0,2020-06-13
+1,James Wilms,54,Erding,Bankkaufmann,30.677,29/07/2023
+2,Benno Austermühle-Reising,53,Neuss,Erzieher,44.267,11/04/2020
+3,Ing. Bodo Stroh,52,Erfurt,Beamter,30.333,24/11/2021
+4,Rebecca Misicher,51,Norden,Florist,31.447,21/07/2022
+5,Prof. German Vollbrecht,53,Badibling,Beamter,53.117,13/08/2022
+6,Dunja Junken MBA.,61,Koblenz,Chemiiruin,41.978,18/12/2023
+7,Gotthilf Huhn MBA.,36,Spremberg,Florist,63.421,29/09/2022
+8,Magda Heydrich B.A.,60,Neubrandenburg,Arztiruin,78.865,16/03/2022
+9,Cengiz Kitzmann B.Eng.,27,Grimma,Augenoptiker,36.686,05/07/2021
+10,Rafael Freudenberger MBA.,26,Pirmasens,Florist,35.906,09/07/2023
+11,Alida Adolph,49,Fallingbostel,Friseur,48.66,11/08/2024
+12,Frau Ivana Eckbauer,28,Kaiserslautern,Techniker,61.908,24/04/2022
+13,Hedi Schacht MBA.,34,Mühlhausen,Techniruin,68.425,18/08/2022
+14,Gertraude Schinke-Schwital,22,Weimar,Mechaniker,32.273,27/02/2024
+15,Augustin Eberth,34,Quedlinburg,Friseur,61.6,24/08/2023
+16,Frau Anneli Rogner B.Sc.,33,Borna,Ausbaufacharbeiter,34.761,08/02/2024
+17,Vinzenz Hoffmann-Wulff,44,Oranienburg,Binnenschiffer,33.765,18/09/2024
+18,Univ.Prof. Claudio Jungfer,64,Parsberg,Altenpfleger,63.301,30/08/2023
+19,Juliane Speer,30,Garmisch-Partenkirchen,Designer,77.882,25/07/2024
+20,Emil Gute,37,Badibling,Fleischer,67.513,09/03/2022
+21,Univ.Prof. Gerwin Langern,25,Bremervörde,Artist,43.789,13/01/2021
+22,Britta Scholz,33,Gunzenhausen,Schornsteinfeger,47.359,05/09/2023
+23,Wanda Binner,18,Dinkelsbühl,Pfleger,63.389,01/07/2023
+24,Marie-Theres Carsten,60,Hünfeld,Fachinformatiker,56.597,06/02/2024
+25,Ing. Chantal Gnatz MBA.,49,Beilngries,Binnenschiffer,51.352,28/04/2024
+26,Prof. Sigfried Henk B.Sc.,56,Amberg,Binnenschiffer,46.322,21/01/2024
+27,Diedrich Berger,24,Cottbus,Informatiker,61.416,25/02/2022
+28,Kunibert Heß,56,Burglengenfeld,Beamter,42.957,08/01/2023
+29,Luisa Schinke,55,Kassel,Forstwirt,30.597,09/02/2023
+30,Dajana Flantz,63,Bamberg,Schornsteinfeger,72.604,25/03/2024
+31,Dipl.-Ing. Gerwin Beer B.Sc.,60,Bogen,Medizininformatiker,51.568,03/11/2023
+32,Dr. Christin Lübs B.A.,29,Mellrichstadt,Mechaniker,70.578,02/01/2021
+33,Hans-Gerd Fritsch,30,Hettstedt,Augenoptiker,55.833,29/05/2024
+34,Friedhilde Schottin,20,Pritzwalk,Drogiiruin,60.156,31/01/2022
+35,Miriam Girschner,23,Gotha,Inforiruin,48.903,29/03/2024
+36,Prof. Rene Boucsein,36,Cloppenburg,Fachinformatiker,56.232,13/01/2021
+37,Annemarie Gute-Briemer,18,Schwäbisch Gmünd,Medizininformatiker,47.343,15/04/2020
+38,Bianca Köhler-Kraushaar,64,Bremen,Florist,50.711,16/08/2022
+39,Dipl.-Ing. Ljiljana Adolph,30,Sondershausen,Erzieiruin,35.682,10/05/2020
+40,Antonie Stolze,22,Strasburg,Schornsteinfeger,66.858,08/11/2021
+41,Dipl.-Ing. Norma Seifert B.Sc.,22,Lörrach,Florist,37.955,21/10/2023
+42,Muharrem Fröhlich-Kobelt,28,Sangerhausen,Pilot,77.841,01/05/2020
+43,Anastasia Gumprich,50,Bad Freienwalde,Arztiruin,45.654,30/05/2020
+44,Alma Weinhold,18,Freudenstadt,Erzieiruin,47.016,27/06/2021
+45,Prof. Rolf Wohlgemut B.Sc.,45,Waren,Alteniruin,57.224,29/11/2021
+46,Dr. Rita Döring B.Eng.,49,Sigmaringen,Beamter,45.429,03/08/2021
+47,Elena Schuchhardt,54,Griesbach Rottal,Augenoptiker,53.828,20/11/2023
+48,Univ.Prof. Patricia Aumann,32,Havelberg,Bankkaufmann,78.809,13/05/2024
+49,Rouven Schönland-Wirth,58,Fulda,Arzt,36.291,12/03/2023
+50,Ferenc Jessel MBA.,63,Saarlouis,Drogist,40.624,14/11/2022
+51,Albin Roht,53,Nauen,Artist,57.531,14/11/2022
+52,Herr Hansgeorg Seip B.Eng.,41,Rudolstadt,Chemiiruin,66.969,06/09/2021
+53,Wolf-Dieter Mans,28,Gießen,Forstwirt,65.535,16/12/2020
+54,Gerdi Herrmann,45,Vohenstrauß,Friseur,45.001,31/10/2022
+55,Elfie Beyer,25,Illertissen,Mathematiker,76.93,08/12/2021
+56,Eleonora Christoph-Siering,58,Ochsenfurt,Erzieher,52.639,12/01/2023
+57,Nikolaos Heinrich B.Sc.,22,Badibling,Bankkaufmann,62.959,05/01/2021
+58,Klaus-Günter Lindau-Täsche,44,Osterode am Harz,Winzer,39.639,28/09/2023
+59,Elvira Gorlitz,44,Schwandorf,Techniker,73.92,26/01/2020
+60,Slawomir Dörr,54,Feuchtwangen,Bäcker,41.821,19/06/2020
+61,Prof. Ditmar Hein B.A.,42,Saarbrücken,Elektroniker,59.871,12/10/2022
+62,Ernst-August Heinz,45,Geldern,Informatiker,65.225,17/07/2023
+63,Hans-Martin Kreusel B.A.,60,Cottbus,Mediziruin,41.412,26/12/2023
+64,Leni Sager,47,Fürstenwalde,Chemikant,58.24,02/01/2020
+65,Herr Guenter Dowerg,53,Bad Liebenwerda,Winzer,49.27,27/09/2020
+66,Ruth Schäfer-Schmidt,44,Gräfenhainichen,Schornsteinfeger,34.653,31/05/2022
+67,Antonina Schottin-Kabus,28,Haldensleben,Bäcker,51.222,02/09/2020
+68,Tilo Gunpf,45,Steinfurt,Koreanistiker,61.41,09/01/2022
+69,Sophia Mitschke,48,Dachau,Pilot,36.664,09/06/2024
+70,Frau Nadin Thanel B.Eng.,30,Sigmaringen,Bankkaufmann,79.684,13/07/2020
+71,Hasso Löffler-Kade,51,Grimma,Augenoptiker,39.065,09/06/2023
+72,Univ.Prof. Mirko Kallert MBA.,32,Plauen,Koreairuin,63.396,09/02/2023
+73,Filippo Höfig-Bender,57,Einbeck,Artist,78.174,02/05/2024
+74,Lilo Schmidtke B.A.,20,Eutin,Designer,65.149,06/01/2022
+75,Gretel Hiller,57,Altentreptow,Bäcker,47.879,01/07/2024
+76,Mirko Barkholz,46,Bad Mergentheim,Chemikant,78.958,17/04/2020
+77,Prof. Alfredo Misicher B.Eng.,22,Stade,Fachinformatiker,30.303,18/03/2022
+78,Herr Willibert Weitzel,56,Günzburg,Mechaniker,34.34,29/01/2021
+79,Francoise Staude,41,Hansestadttralsund,Schornsteinfeger,36.974,22/08/2023
+80,Ivonne Bohlander,60,Hainichen,Bäcker,32.336,26/05/2022
+81,Reni Sontag B.A.,27,Burglengenfeld,Bäcker,42.46,19/12/2021
+82,Raik Gröttner,44,Brandenburg,Beamter,57.368,09/04/2023
+83,Jens-Uwe Finke,27,Einbeck,Techniker,60.701,07/04/2022
+84,Univ.Prof. Marie Klotz B.A.,42,Regen,Florist,63.109,14/04/2021
+85,Diedrich Mülichen,38,Worbis,Elektroniker,70.301,07/12/2023
+86,Lidia Döring-Hornich,25,Wetzlar,Drogist,37.969,26/07/2021
+87,Univ.Prof. Tobias Hethur,50,Göttingen,Artist,69.866,27/09/2021
+88,Ilhan Häring,46,Grafenau,Polizist,60.562,16/05/2020
+89,Ing. Theo Hamann B.Sc.,63,Kassel,Fleischer,33.499,05/11/2023
+90,Rigo Seidel,32,Auerbach,Elektiruin,51.305,18/01/2024
+91,Frau Maike Junck,42,Worbis,Winzer,39.224,29/08/2022
+92,Adelinde Losekann,30,Ilmenau,Artist,34.659,22/07/2022
+93,Uwe Henschel,44,Zossen,Altenpfleger,40.764,08/03/2022
+94,Asta Pergande-Heser,24,Naila,Drogist,50.334,16/04/2021
+95,Abdullah Bohnbach B.Eng.,46,Eilenburg,Designer,34.367,24/11/2021
+96,Frau Anita Kohl B.Eng.,49,Zerbst,Erzieher,46.543,21/03/2023
+97,Theda Köhler,22,Soltau,Ausbaufacharbeiter,42.493,30/03/2022
+98,Raissa Lindner-Tschentscher,28,Lippstadt,Artist,40.709,14/05/2021
+99,Herr Giorgio Gerlach,49,Halberstadt,Altenpfleger,33.82,09/07/2020
+100,Luzia Flantz,23,Kronach,Koreanistiker,59.634,25/05/2023
+101,Stephen Beyer-van der Dussen,54,Ludwigsburg,Altenpfleger,46.015,14/11/2021
+102,Ewa Eimer,31,Magdeburg,Programmierer,44.571,24/01/2020
+103,Heinz Dieter Ackermann,42,Lüdinghausen,Pfleger,42.825,10/07/2020
+104,Albina Wirth-Stey,30,Gotha,Mathematiker,41.247,20/09/2020
+105,Karl-Heinrich Klemt,48,Haldensleben,Schornsteinfeger,58.155,18/07/2021
+106,Heidrun Junitz,36,Hohenmölsen,Asphaltbauer,44.467,13/02/2020
+107,Wulf Winkler B.Sc.,31,Kyritz,Beamter,33.745,15/09/2024
+108,Igor Scholz,21,Brandenburg,Florist,32.87,01/08/2023
+109,Angelika Schmiedecke B.Sc.,43,Nürtingen,Fachinformatiker,60.434,11/01/2024
+110,Herr Diether Carsten B.A.,22,Lübeck,Bankkaufmann,78.385,05/11/2022
+111,Irmtrud Oestrovsky,44,Dachau,Pfleger,73.406,01/10/2022
+112,Herr Rico Haase,52,Lübz,Beamter,62.453,26/11/2022
+113,Cläre Werner-Jockel,23,Lüdenscheid,Krankenschwester,38.614,27/07/2021
+114,Univ.Prof. Ben Sorgatz,26,Bützow,Binnenschiffer,52.844,02/03/2023
+115,Karl-Friedrich Stroh,63,Eisleben,Desigiruin,51.656,20/12/2023
+116,Annemie Hiller,64,Rochlitz,Koreanistiker,48.175,11/07/2020
+117,Athanasios Oestrovsky,47,Borna,Pfleger,38.383,30/12/2021
+118,Gunnar Schleich,65,Osterode am Harz,Forstwirt,56.845,01/05/2021
+119,Karl-Friedrich Margraf,22,Dresden,Schornsteinfeger,49.808,06/07/2020
+120,Jeanette Schenk,38,Gütersloh,Asphaltbauer,48.478,18/11/2022
+121,Manfred Pohl-Säuberlich,47,Werdau,Beamtiruin,46.226,30/04/2021
+122,Ahmad Patberg,64,Wittenberg,Chemikant,71.555,29/06/2022
+123,Margrit Losekann,45,Worbis,Ausbaufacharbeiter,59.927,16/05/2024
+124,Dr. Rahel Süßebier,29,Erfurt,Designer,78.929,01/09/2024
+125,Stefano Wagner-Siering,40,Erbisdorf,Fachinformatiker,78.222,14/03/2023
+126,Timo Losekann,62,Reutlingen,Ausbairuin,79.274,06/08/2020
+127,Hans-Theo Mühle,58,Strausberg,Ausbaufacharbeiter,35.698,17/02/2021
+128,Irmela Schenk,31,Burglengenfeld,Fleischer,58.634,04/08/2023
+129,Univ.Prof. Sara Hofmann,51,Arnstadt,Mechaniker,58.131,10/04/2024
+130,Kreszenz Bolzmann-Eigenwillig,36,Eggenfelden,Chirurgiemechaniker,46.457,13/11/2021
+131,Prof. Antonie Margraf B.A.,44,Bad Langensalza,Drogist,39.644,27/12/2023
+132,Clara Schlosser,62,Lüneburg,Mechaniker,46.735,09/12/2021
+133,Liliana Thies,43,Paderborn,Pilot,71.236,02/06/2022
+134,Franz-Josef Nette,56,Neubrandenburg,Designer,34.241,15/08/2020
+135,Dr. Silva Hettner B.Eng.,57,Senftenberg,Fleischer,38.049,16/03/2020
+136,Lotte Jungfer,19,Sondershausen,Informatiker,72.498,06/01/2020
+137,Slobodan Holzapfel,38,Melsungen,Designer,47.781,05/03/2020
+138,Cäcilia Köhler,24,Feuchtwangen,Inforiruin,52.749,02/04/2023
+139,Irmtraut Schmiedecke B.A.,22,Griesbach Rottal,Ausbairuin,49.57,02/04/2022
+140,Reinald Ullmann,36,Wismar,Bäcker,56.053,21/02/2023
+141,Herr Hans-Michael Knappe MBA.,61,Schleiz,Floriiruin,36.682,30/05/2023
+142,Ingetraud Schinke,42,Marktheidenfeld,Designer,60.607,04/11/2021
+143,Gundel Hande-Ebert,34,Bergzabern,Koreanistiker,50.259,20/09/2024
+144,Johannes Schacht,54,Anklam,Fachinformatiker,59.403,01/10/2020
+145,Luzia Ditschlerin,41,Spremberg,Elektroniker,49.407,19/10/2021
+146,Freia Oderwald B.Eng.,46,Seelow,Informatiker,64.996,19/07/2020
+147,Prof. Massimo Plath,49,Rottweil,Techniker,77.614,17/04/2021
+148,Ronny Geißler,52,Hainichen,Altenpfleger,68.939,06/02/2023
+149,Bastian Gorlitz MBA.,32,Spremberg,Altenpfleger,44.039,19/01/2021
+150,Rupert Kreusel,60,Döbeln,Florist,31.057,18/05/2021
+151,Rosl Bolander,32,Schlüchtern,Krankenschwester,41.007,21/09/2020
+152,Hans-Josef Gute-Ring,27,Aue,Fleischer,59.817,26/05/2023
+153,Ann-Kathrin Textor-Weihmann,62,Neustrelitz,Informatiker,75.45,04/06/2021
+154,Ulrike Bender B.Sc.,63,Auerbach,Designer,41.757,31/01/2024
+155,Ullrich Scholtz,30,Burgdorf,Asphaltbauer,43.107,31/07/2024
+156,Alban Wilmsen,47,Ilmenau,Pfleger,51.2,28/09/2020
+157,Helmuth Stroh,48,Kemnath,Fleischer,46.76,26/10/2022
+158,Maria-Theresia Liebelt,35,Flöha,Drogiiruin,66.594,10/01/2022
+159,Hannah Holt-Davids,56,Cottbus,Beamtiruin,37.557,07/11/2020
+160,Domenico Hellwig B.A.,41,Böblingen,Erzieiruin,41.537,06/05/2023
+161,Ing. Marcel Scholz,22,Mühldorf am Inn,Fachinformatiker,70.13,16/09/2020
+162,Tina Schottin B.Sc.,26,Zeulenroda,Fachinformatiker,43.761,30/03/2021
+163,Ing. Slavica Faust B.Eng.,62,Hagenow,Krankenschwester,30.499,22/09/2020
+164,Ing. Emanuel Gutknecht,20,Guben,Pilot,65.701,30/05/2022
+165,Hans Josef Jäkel,45,Rosenheim,Asphairuin,57.075,14/06/2024
+166,Beatrice Gertz,27,Stollberg,Chirurgiemechaniker,40.675,06/01/2022
+167,Harro Kobelt,37,Gunzenhausen,Desigiruin,73.056,21/07/2020
+168,Cathleen Jessel-Heintze,46,Weimar,Bäcker,70.729,11/03/2020
+169,Helma Rörricht,28,Burg,Polizist,31.174,19/07/2021
+170,Gaby Sauer,29,Germersheim,Programmierer,63.427,29/08/2020
+171,Marika Rohleder B.A.,60,Schlüchtern,Pfleger,46.195,23/08/2024
+172,Herr Ernest Jüttner MBA.,61,Jessen,Pfleger,42.004,31/07/2021
+173,Betti Ziegert,54,Grevesmühlen,Bäcker,52.927,19/12/2021
+174,Margrit Schaaf,19,Gräfenhainichen,Schornsteinfeger,79.323,20/11/2020
+175,Krystyna Söding,32,Bruchsal,Mathematiker,51.471,18/04/2023
+176,Leokadia Säuberlich,60,Sonneberg,Arzt,78.312,03/03/2021
+177,Helmar Pechel-Thies,48,Aue,Beamtiruin,61.606,17/11/2023
+178,Wolfram Nette-Herrmann,52,Pößneck,Asphaltbauer,41.275,23/09/2020
+179,Sieghard Biggen,39,Zeulenroda,Winzer,53.169,30/06/2023
+180,Edeltraut Hettner,48,Herzberg,Arzt,57.996,21/12/2021
+181,Tülay Fischer,53,Ribnitz-Damgarten,Bankkaufmann,64.436,21/07/2021
+182,Wladimir Grein Groth,39,Angermünde,Asphaltbauer,69.165,04/12/2023
+183,Edeltraut Gutknecht,64,Herford,Designer,75.766,24/09/2024
+184,Vassilios Bohlander,20,Böblingen,Forstwirt,53.611,05/06/2023
+185,Orhan Eimer,36,Wittstock,Fleisiruin,46.739,15/04/2022
+186,Lidwina Fröhlich,41,Gießen,Koreanistiker,48.355,27/12/2020
+187,Muharrem Junck-Losekann,38,Zeulenroda,Chirurgiemechaniker,68.682,01/04/2023
+188,Dan Anders,61,Strasburg,Florist,42.186,31/08/2023
+189,Hans-Wilhelm Zorbach,51,Lüdenscheid,Programmierer,78.917,24/11/2022
+190,Kay-Uwe Hornich,19,Peine,Binnenschiffer,36.553,17/06/2021
+191,Songül Klingelhöfer,26,Bischofswerda,Fachinformatiker,56.428,08/10/2021
+192,Giorgio Roht,23,Witzenhausen,Designer,47.73,23/12/2021
+193,Univ.Prof. Mathias Briemer,57,Rathenow,Schornsteinfeger,62.101,16/12/2021
+194,Desiree Spieß,54,Wernigerode,Koreanistiker,40.83,20/06/2020
+195,Ing. Ignatz Zirme,58,Stollberg,Forstiruin,58.48,21/09/2020
+196,Dipl.-Ing. Ludwina Schuchhardt,63,Diepholz,Programmierer,71.358,03/04/2021
+197,Prof. Arnim Flantz B.Eng.,60,Malchin,Florist,75.649,12/05/2023
+198,Heidemarie Franke B.Sc.,52,Waldmünchen,Erzieher,58.584,20/04/2020
+199,Gabriele Gehringer,25,Saarbrücken,Medizininformatiker,46.328,15/03/2023
+200,Liesa van der Dussen,53,Kehl,Koreanistiker,32.54,17/04/2023
